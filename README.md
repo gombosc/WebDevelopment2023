@@ -10,7 +10,7 @@ Day 2:
 - got a bit lost with the arrangements, realised I don't understand the box model that good.
 - tomorrow I hope to complete the CSS part and then move to the Javascript one. I also need to read on flexbox. 
 
-Day 2:
+Day 3:
 - Revised old notes of CSS I've taken in 2020
 - Finished CSS-Diner all 32 levels, now I have a better grasp of selectors
 - Moved on to advanced CSS from the course, need to look more into a few subjects
