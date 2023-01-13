@@ -16,3 +16,12 @@ Day 3:
 - Moved on to advanced CSS from the course, need to look more into a few subjects
 -Got a better understanding of the box model, managed to write to examples as to better understand the concept through practice. Practically I arranged two divs, created a container and a square inside it which I positioned in different areas of the container. Need to check flex-box more and to get a better grasp of pseudo-classes.
 - Did not finished the website project but will do that tomorrow.
+
+Day 4:
+- Finished Advanced CSS, played around with the Robot exercise and created a simple image page with flexbox
+- read article for em, rem, vw,wh
+- read more about flexbox and its use compared to Grid
+- read about <position> and transitions / transformations
+- started working on the website project, not done yet
+- wanted to play flexbox froggy but didn't got the time, will do tomorrow
+
