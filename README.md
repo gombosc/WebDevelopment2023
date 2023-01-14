@@ -25,7 +25,7 @@ Day 4:
   - started working on the website project, not done yet
   - wanted to play flexbox froggy but didn't got the time, will do tomorrow
 
-Day 5:
+  <strong>Day 5</strong>:
   - finished the index part of the band website, almost finished the store too, still have the cart section and a bit from merch
   - tomorrow I should be done with the website, will try to implement javascript to the cart function from a tutorial, also will try and do as much from bootstrap section
   - only coded for 2 hours and a half, busy day and time seems to be running faster than Usain Bolt
