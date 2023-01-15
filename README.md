@@ -30,7 +30,7 @@ Day 4:
   - tomorrow I should be done with the website, will try to implement javascript to the cart function from a tutorial, also will try and do as much from bootstrap section
   - only coded for 2 hours and a half, busy day and time seems to be running faster than Usain Bolt
   
-<strong>Day 6<strong>:
+<strong>Day 6</strong>:
   - Only coded for two hours and a half today but managed to finish the Red Hot Chili Peppers website. It looks nice and it's the first project that I've did. I will implement some Javascript in it later.
   - managed to debug code on my own and figure out what and where the problem is by inspecting the webpage and understanding how the containers are wrapped and which class contains specific items. Got a bit annoyed with the absurd amount of classes but slowly getting used to it.
 
