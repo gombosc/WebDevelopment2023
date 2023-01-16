@@ -34,3 +34,11 @@ Day 4:
   - Only coded for two hours and a half today but managed to finish the Red Hot Chili Peppers website. It looks nice and it's the first project that I've did. I will implement some Javascript in it later.
   - managed to debug code on my own and figure out what and where the problem is by inspecting the webpage and understanding how the containers are wrapped and which class contains specific items. Got a bit annoyed with the absurd amount of classes but slowly getting used to it.
 
+<strong>Day 7</strong>:
+  - Continued with bootstrap today, created a new page and played around with bootstrap functionalities
+  - learned about Sass and CDN, as well as frameworks
+  - read a bit about Ruby on Rails
+  - started the startup page project, trying to do it on my own. It should have been pretty simple but tried a different design and got stuck, and annoyed, arranging the containers so that the site would be responsive. Also, for some reason, encountered stupid errors, like background not displaying. Fixed the problem by restarting the virtual server and moving my folders in the right place, and so on.
+  - realized that problems do and will occur from now one, I must be patient and try solving them one by one
+  - also trying to advance at a slower pace as of the fact that I have this weird urge to rush and learn as much as possible, as fast as possible
+  
