@@ -42,3 +42,13 @@ Day 4:
   - realized that problems do and will occur from now one, I must be patient and try solving them one by one
   - also trying to advance at a slower pace as of the fact that I have this weird urge to rush and learn as much as possible, as fast as possible
   
+<strong>Day 8</strong>:
+  - managed to finish my own startup page, which was actually a pre-order page for a game
+  - learned more about git, cause I pretty much forgot everything I've learnt before
+  - learnt how to set my website live through github
+  - played around with github for desktop, should learn to use git commands through the console tho
+  - I finally understand bootstrap a little better, flexbox too (cause I've spent way too much testing different containers and sizes)
+  - played around with transitions and animations, must do a more detailed website with them
+  - almost to javascript, do I even remember the syntax?
+  - hoping to be able to get an intership in March or April
+  - tomorrow I want to try a bit of azure, and python combined with flask (just so to have a basic understanding)
