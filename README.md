@@ -52,3 +52,10 @@ Day 4:
   - almost to javascript, do I even remember the syntax?
   - hoping to be able to get an intership in March or April
   - tomorrow I want to try a bit of azure, and python combined with flask (just so to have a basic understanding)
+  
+  <strong>Day 9</strong>:
+    - did not code that much today but read a lot and finished with grid section and the career of a web dev. Can't wait to get back to actually programming in Javascript, enough CSS for a while. 
+    - finished flexbox froggy to revise what I know, also almost finished the gridbox one
+    - played around with grid, pretty much understood how to use it
+    - now I know that flexbox is used mainly for one dimension applications while grid for two dimensions, bootstrap appeared before them
+    - tomorrow I will do the grid project on my own and then start javascript
