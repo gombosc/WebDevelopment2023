@@ -53,7 +53,7 @@ Day 4:
   - hoping to be able to get an intership in March or April
   - tomorrow I want to try a bit of azure, and python combined with flask (just so to have a basic understanding)
   
-  <strong>Day 9</strong>:
+<strong>Day 9</strong>:
     - did not code that much today but read a lot and finished with grid section and the career of a web dev. Can't wait to get back to actually programming in Javascript, enough CSS for a while. 
     - finished flexbox froggy to revise what I know, also almost finished the gridbox one
     - played around with grid, pretty much understood how to use it
