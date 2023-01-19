@@ -1,0 +1,154 @@
+
+*{
+    margin: auto 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.zone {
+    padding:30px 50px;
+    cursor:pointer;
+    font-size:2em;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.zone:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+
+.header{
+    background: rgb(227,226,236);
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+/* .sticky{
+    position: fixed;
+    width: 100%;
+} */
+
+ .bg-cover{
+    width: auto;
+    height: 650px;
+    background-image: url(img/img/brain.jpg);
+    background-size: cover;
+    background-repeat: norepeat;
+    background-position: center;
+} 
+
+@media only screen and (max-width:600px) {
+    .bg-cover{
+        width: auto;
+        height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+.content-block{
+    background: #ff0099; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #ff0099, #493240); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #ff0099, #493240); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.footer{
+    background: #41295a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    color: wheat;
+}
+
+.grid-layout{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px,100%));
+    grid-template-rows: 25% 25% 25% 25%;
+}
+
+.nav-elements{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:space-around;
+    gap: 10%;
+    list-style: none;
+}
+
+@media only screen and (max-width:600px) {
+    .nav-elements{
+        font-size: 0.7em;
+        padding: 0.5em;
+    }
+}
+
+.nav-elements a{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.nav-elements a:hover{
+    color:rgb(202, 202, 202);
+}
+
+.nav-elements li:hover{
+    transition: 1s;
+    transform: scale(1.4);
+}
+
+.title{
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 2%;
+    color: wheat;
+}
+
+.content-images{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 1%;
+}
+
+
+.content img{
+    width: 10em;
+    height: 10em;
+    border: 2px solid black;
+    box-shadow: 0 10px 20px 2px;
+    margin-bottom: 2%;
+}
+
+@media only screen and (max-width:600px) {
+    .content img{
+        width: 5em;
+        height: 5em;
+    }
+}
+
+.title:hover{
+    animation: rubberBand; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 1s; /* don't forget to set a duration! */
+}
+
+.shakeY:hover{
+    animation: shakeY; 
+    animation-duration: 2s; 
+}
+
+.shakeX:hover{
+    animation: shakeX; 
+    animation-duration: 2s; 
+}
+
+.footer p:hover{
+    animation: flash; 
+    animation-duration: 2s; 
+}
