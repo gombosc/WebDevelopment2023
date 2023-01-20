@@ -34,7 +34,7 @@ Day 4:
   - Only coded for two hours and a half today but managed to finish the Red Hot Chili Peppers website. It looks nice and it's the first project that I've did. I will implement some Javascript in it later.
   - managed to debug code on my own and figure out what and where the problem is by inspecting the webpage and understanding how the containers are wrapped and which class contains specific items. Got a bit annoyed with the absurd amount of classes but slowly getting used to it.
 
-<strong>Day 7</strong>:
+<strong> Day 7 </strong>:
   - Continued with bootstrap today, created a new page and played around with bootstrap functionalities
   - learned about Sass and CDN, as well as frameworks
   - read a bit about Ruby on Rails
@@ -42,7 +42,7 @@ Day 4:
   - realized that problems do and will occur from now one, I must be patient and try solving them one by one
   - also trying to advance at a slower pace as of the fact that I have this weird urge to rush and learn as much as possible, as fast as possible
   
-<strong>Day 8</strong>:
+<strong> Day 8 </strong>:
   - managed to finish my own startup page, which was actually a pre-order page for a game
   - learned more about git, cause I pretty much forgot everything I've learnt before
   - learnt how to set my website live through github
@@ -53,14 +53,17 @@ Day 4:
   - hoping to be able to get an intership in March or April
   - tomorrow I want to try a bit of azure, and python combined with flask (just so to have a basic understanding)
   
-<strong>Day 9</strong>: 
-  
-    - did not code that much today but read a lot and finished with grid section and the career of a web dev. Can't wait to get back to actually programming in Javascript, enough CSS for a while.   
-  
-    - finished flexbox froggy to revise what I know, also almost finished the gridbox one 
-  
-    - played around with grid, pretty much understood how to use it 
-  
-    - now I know that flexbox is used mainly for one dimension applications while grid for two dimensions, bootstrap appeared before them 
-  
-    - tomorrow I will do the grid project on my own and then start javascript
+<strong> Day 9 </strong>: 
+   - did not code that much today but read a lot and finished with grid section and the career of a web dev. Can't wait to get back to actually programming in Javascript, enough CSS for a while.   
+   - finished flexbox froggy to revise what I know, also almost finished the gridbox one 
+   - played around with grid, pretty much understood how to use it 
+   - now I know that flexbox is used mainly for one dimension applications while grid for two dimensions, bootstrap appeared before them 
+   - tomorrow I will do the grid project on my own and then start javascript
+   
+ <strong> Day 10 </strong>: 
+  - finished grid garden
+  - finished the grid project on my own, took about 4 hours. Used animations, media queries, gradients, grid, flexbox and so on. 
+  - learnt more about responsiveness, backgrounds, gradients and grid system
+  - used animations from the Animate.css
+  - proud that I've managed to do the template on my own, even though it was a bit frustrating. Oficially I now have 10 days, way to go till 100!
+  - time to start Javascript
