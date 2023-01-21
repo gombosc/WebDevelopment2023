@@ -4,6 +4,14 @@ var database = [
         name: "Cosmin",
         password: "Test123",
     },
+    {
+        name: "Serban",
+        password: "Test1234",
+    },
+    {
+        name: "Delia",
+        password: "Akia123",
+    },
 ];
 
 var timeline = [
@@ -18,16 +26,21 @@ var timeline = [
     }
 ];
 
-
+function isUserValid(username, password){
+    for(var i=0; i<database.length; i++)
+    {
+        if( database[i].username === username && database[i].password === password){
+            return true;
+        } else return false;
+    } 
+}
 
 function checkUser(username, password){
-    if (username === database[0].name && password === database[0].password)
-    {
+    { if(isUserValid){
         alert("Welcome back " + username);
         console.log(timeline);
-    }
-        else {alert("Wrong username or password!");
-    } 
+    } else alert("Wrong username or password!");
+}
 }
 
 user = prompt("Please insert your username");
@@ -35,5 +48,3 @@ pass= prompt("Please insert your password");
 console.log(user[0].name + " " + user[0].password)
 
 checkUser(user,pass);
-
-
