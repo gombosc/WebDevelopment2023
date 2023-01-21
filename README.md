@@ -78,4 +78,10 @@ Day 4:
   - did the javascript exercises on my own, struggled with why my "facebook" database wouldn't run (cause obsiouly I had no HTML attached...)
   - learnt more about visual studio a bit and plugins
   - also got 20 days of daily writing a minimum of 750 words (another challenge I've started, from 750words.com) 
-  - 
+
+  <strong> Day 12 </strong>:
+  - finished Javascript, revised for loops and forEach
+  - updated the database exercise with for loops 
+  - started Document Object Model (DOM)
+  - revised old notes of Javascript and DOM
+  - need to finish my bachelor license till next month so I will have to try and scramble time for coding somewhere somehow 
