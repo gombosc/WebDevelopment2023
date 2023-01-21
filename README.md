@@ -67,3 +67,15 @@ Day 4:
   - used animations from the Animate.css
   - proud that I've managed to do the template on my own, even though it was a bit frustrating. Oficially I now have 10 days, way to go till 100!
   - time to start Javascript
+  
+  <strong> Day 11 </strong>:
+  - started and almost finished Javascript, still have a bit of for loops to practice
+  - longest day of coding since started, 7 hours (my head hurts)
+  - revised my old notes, looked at different elements, like primitives, functions, methods, arrays, object and loops
+  - fought with visual studio to manage to run javascript, installed node and code-runners plugin
+  - fought some more to understand how to properly run code in vs, got stuck with code that wasn't working because "prompt" was not declared until I finally understood that is because in node it's actually readline
+  - DRY (Try to do not repeat myself and have clean code)
+  - did the javascript exercises on my own, struggled with why my "facebook" database wouldn't run (cause obsiouly I had no HTML attached...)
+  - learnt more about visual studio a bit and plugins
+  - also got 20 days of daily writing a minimum of 750 words (another challenge I've started, from 750words.com) 
+  - 
