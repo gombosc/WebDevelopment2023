@@ -85,3 +85,11 @@ Day 4:
   - started Document Object Model (DOM)
   - revised old notes of Javascript and DOM
   - need to finish my bachelor license till next month so I will have to try and scramble time for coding somewhere somehow 
+  
+  
+  <strong> Day 13 </strong>:
+  - practicing with DOM, trying to get a good grip of how it works
+  - learnt more about callback functions
+  - tried and solved a few DOM exercises on my own
+  - still need to finish the exercise of toggling on a list, for some reason I just can't seem to solve it
+  - learnt about jQuerry (imperative) and React (declarative)
