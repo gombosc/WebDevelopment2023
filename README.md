@@ -93,3 +93,9 @@ Day 4:
   - tried and solved a few DOM exercises on my own
   - still need to finish the exercise of toggling on a list, for some reason I just can't seem to solve it
   - learnt about jQuerry (imperative) and React (declarative)
+  
+  <strong> Day 14 </strong>
+  - read about callback functions, again. Learnt about .map, array.from, this, const vs var vs let, scope and arrow function expression which I still find a bit confusion
+  - asked a question on stackoverflow and realized I don't understand half of the answer so I've researched more
+  - finished the dom exercise, realized I needed to use this plus get the array from ul and then call on that the toggle function, also changed to for loop to forEach
+  - spent time trying to understand the logic behind what I wish to do in a function, and also how Javascript works
