@@ -1,43 +1,50 @@
 var input = document.getElementById("userInput");
 var button = document.getElementById("btn");
 var ul = document.querySelector("ul");
-var list = document.querySelectorAll("li");
+var list = document.getElementsByClassName("line-through");
 
 
 //add items to list
-function addItem(){
+function addItem() {
     var li = document.createElement("li");
     li.appendChild(document.createTextNode(input.value));
     ul.appendChild(li);
-    input.value="";
+    input.value = "";
 }
 
-function addItemBtn(event){
-    if(input.value.length != 0 && event.code === "Enter")
-    {addItem()}
+function addItemBtn(event) {
+    if (input.value.length != 0 && event.code === "Enter") { addItem() }
 }
 
-function addItemClick(){
-    if(input.value.length != 0){
-       addItem(); 
-    }}
-
-
-// for(var i=0; i<=list.length; i++){
-//    ul.addEventListener("click", function(){
-//     for(var i=0; i<=list.length; i++)
-//     {
-//         list.addEventListener("click", function()
-//         {
-//             list[i].classList.toggle("line-through")
-//         })
-//     }
-// })
-
-if(ul.addEventListener("click" , function(e){}))
-{
-    console.log("clicked");
+function addItemClick() {
+    if (input.value.length != 0) {
+        addItem();
+    }
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+    //  Execute the code after the HTML content is loaded
+    // () => {} is equal to function(){}
+
+
+    // const myList = document.querySelector(".my-list"); 
+    // this is equal to var ul = document.querySelector("ul");
+    const listElements = Array.from(ul.children);
+
+
+    function checkItem() {
+        // The `this` keyword is the clicked element
+        this.classList.toggle("line-through");
+    }
+
+    listElements.forEach(li => {
+        // li => is equal to function(li); and li is index[0] [1] and so on
+        li.addEventListener("click", checkItem);
+    })
+    
+});
+
+
 
 
 
@@ -47,4 +54,4 @@ if(ul.addEventListener("click" , function(e){}))
 
 button.addEventListener("click", addItemClick);
 
-input.addEventListener("keypress", addItemBtn)
+input.addEventListener("keypress", addItemBtn);
