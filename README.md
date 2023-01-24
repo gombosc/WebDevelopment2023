@@ -101,10 +101,10 @@ Day 4:
   - spent time trying to understand the logic behind what I wish to do in a function, and also how Javascript works
   
   <strong> Day 15 </strong>:
-    - finally finished the task app, took me way too much to understand DOM and I still don't feel secure about it
-    - still need to finish the background project in dom section
-    - started javascript, read about scope, ternary operators, switch, event.target
-    - started ECMA script part, learnt that Babel is a Javascript compiler
-    - learnt about destructuring, var, const and let again
-    - arrow functions are fun
-    - completed two weeks of daily coding
+   - finally finished the task app, took me way too much to understand DOM and I still don't feel secure about it
+   - still need to finish the background project in dom section
+   - started javascript, read about scope, ternary operators, switch, event.target
+   - started ECMA script part, learnt that Babel is a Javascript compiler
+   - learnt about destructuring, var, const and let again
+   - arrow functions are fun
+   - completed two weeks of daily coding
