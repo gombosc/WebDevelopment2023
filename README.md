@@ -108,3 +108,15 @@ Day 4:
    - learnt about destructuring, var, const and let again
    - arrow functions are fun
    - completed two weeks of daily coding
+
+  <strong> Day 16 </strong>:
+  - oh man oh man, forgot to update the github with the files I've worked with today, it was a full day and I've somehow forgot to upload in time. It's 13 minutes after midnight come on...
+  - ignoring the above, today was a day for javascript
+  - learnt about destructuring, worked a bit on it to understand it better, arrays and methods
+  - learnt about classes again, practiced a bit to be sure I understand the constructor logic
+  - tried adopting arrow functions more in my code
+  - made a clear note with the differences of var, const and let, read more about block an function scope
+  - learnt about the spread operator and modules
+  - made a list with string escape codes
+  - coded in order to practice what I've read
+  - pretty much spent the whole time on w3
