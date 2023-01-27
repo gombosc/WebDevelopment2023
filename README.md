@@ -120,3 +120,9 @@ Day 4:
   - made a list with string escape codes
   - coded in order to practice what I've read
   - pretty much spent the whole time on w3
+  
+  <strong> Day 17 </strong>:
+  - finished background generator in DOM section
+  - moved on with Javascript advanced, template string, default arguments, closures, currying, compose functions
+  - deterministic functions
+  - long day, happy I've managed to make time to code, even if only for a couple of hours
