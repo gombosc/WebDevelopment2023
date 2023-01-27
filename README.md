@@ -126,3 +126,10 @@ Day 4:
   - moved on with Javascript advanced, template string, default arguments, closures, currying, compose functions
   - deterministic functions
   - long day, happy I've managed to make time to code, even if only for a couple of hours
+  
+  <strong> Day 18 </strong>:
+  - another long day, half way through with my bachelor degree final project, glad I've got to code a bit
+  - javascript day, advanced arrays (map, filter, reduce), advanced objects (reference types, primitives, context vs scope, instantiation), keyword "new"
+  - did the first three exercises, created a switch function for daily habits
+  - will code more tomorrow
+ 
