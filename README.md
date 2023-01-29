@@ -132,4 +132,19 @@ Day 4:
   - javascript day, advanced arrays (map, filter, reduce), advanced objects (reference types, primitives, context vs scope, instantiation), keyword "new"
   - did the first three exercises, created a switch function for daily habits
   - will code more tomorrow
+  
+   <strong> Day 19 </strong>:
+  - javascript theory day, almost finished this section, only have methods left
+  - Learnt or read about: pass by value, pass by reference, type coercion, es7, es8, es9, es10 and es2020, object entries, values and keys, flat function, try and catch
+  - also learnt about: advanced loops, iterating vs enumerating (for item of, for item in), big int, max safe integer, optional chaining operator ? and nullish coalescing operator ??
+  - debugging and how to understand code logic better
+  - how javascript works, memory heap and call stack, synchronous programming and asynchronous, stack overflowing and so on
+  - impostor syndrome
+  - note to myself, your mind is your biggest enemy against everything you wish to acchieve
+  
+  <strong> Day 20 </strong>:
+  - worked on Javascript concepts that I've learned through the exercise files
+  - finished Javascript section, kind of understood Modules
+  - learnt about inline script, script tags, module objects and IIFE, Common JS, AMD, Browserify, ES6 + Webpack
+  - concepts: code reusability, lack of it, lack of dependency resolution, pollution of global namespace, asynchronous module definition, export import and so on
  
