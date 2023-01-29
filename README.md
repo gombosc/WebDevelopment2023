@@ -141,4 +141,10 @@ Day 4:
   - how javascript works, memory heap and call stack, synchronous programming and asynchronous, stack overflowing and so on
   - impostor syndrome
   - note to myself, your mind is your biggest enemy against everything you wish to acchieve
+  
+  <strong> Day 20 </strong>:
+  - worked on Javascript concepts that I've learned through the exercise files
+  - finished Javascript section, kind of understood Modules
+  - learnt about inline script, script tags, module objects and IIFE, Common JS, AMD, Browserify, ES6 + Webpack
+  - concepts: code reusability, lack of it, lack of dependency resolution, pollution of global namespace, asynchronous module definition, export import and so on
  
