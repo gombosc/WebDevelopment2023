@@ -147,4 +147,10 @@ Day 4:
   - finished Javascript section, kind of understood Modules
   - learnt about inline script, script tags, module objects and IIFE, Common JS, AMD, Browserify, ES6 + Webpack
   - concepts: code reusability, lack of it, lack of dependency resolution, pollution of global namespace, asynchronous module definition, export import and so on
+  
+  <strong> Day 21 </strong>:
+  - javascript exercises, completed half of them
+  - practiced more with arrays and methods, improving logical thinking
+  - command line, git bash and dev day
+  - still need to take a deeper look over github usage
  
