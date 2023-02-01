@@ -153,4 +153,10 @@ Day 4:
   - practiced more with arrays and methods, improving logical thinking
   - command line, git bash and dev day
   - still need to take a deeper look over github usage
+
+<strong> Day 22 </strong>:
+- long day, only got somewhere around two hours to code
+- trying to get used with the terminal and git, going to take a while
+- looked over javascript exercises again, practicing again
+- as a side note, did lots of calculations for my engineering thesis
  
