@@ -159,4 +159,13 @@ Day 4:
 - trying to get used with the terminal and git, going to take a while
 - looked over javascript exercises again, practicing again
 - as a side note, did lots of calculations for my engineering thesis
+  
+<strong> Day 22 </strong>:
+- revised all notes until now
+- taking my time with javascript exercises, trying to practicee and fully understand
+- will dedicate a full weekend to terminal and github, plus work on my portfolio
+- started a side project in which I record my progress in the form of a timelapse (me coding and learning each day pretty much, maybe I'll manage to combine passions)
+
+
+
  
