@@ -7,9 +7,9 @@ dragons.includes('John') // false
 
 // #2) Check if this array includes any name that has "John" inside of it. If it does, return that
 // name or names in an array.
-const dragons = ['Tim', 'Johnathan', 'Sandy', 'Sarah'];
+const dragons2 = ['Tim', 'Johnathan', 'Sandy', 'Sarah'];
 
-dragons.filter(name => name.includes('John')) // ['Johnathan']
+dragons2.filter(name => name.includes('John')) // ['Johnathan']
 
 // #3) Create a function that calulates the power of 100 of a number entered as a parameter
 const power100 = (num) => num**100;

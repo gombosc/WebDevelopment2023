@@ -1,7 +1,7 @@
 //Evaluate these:
 //#1
-[2] === [2] `false`
-{} === {} `false`
+`[2] === [2] false
+{} === {} false`
 
 //#2 what is the value of property a for each object.
 const object1 = { a: 5 };   //4
@@ -20,7 +20,7 @@ class Animal {
         this.type = type;
     }
     sound(){
-        console.log(`MOOO! I'm a ${name} and I'm ${color1}! I'm pretty ${type}!`);
+        console.log(`MOOO! I'm a ${this.name} and I'm ${this.color1}! I'm pretty ${this.type}!`);
     }
 }
 
