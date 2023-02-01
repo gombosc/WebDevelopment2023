@@ -160,7 +160,7 @@ Day 4:
 - looked over javascript exercises again, practicing again
 - as a side note, did lots of calculations for my engineering thesis
   
-<strong> Day 22 </strong>:
+<strong> Day 23 </strong>:
 - revised all notes until now
 - taking my time with javascript exercises, trying to practicee and fully understand
 - will dedicate a full weekend to terminal and github, plus work on my portfolio
