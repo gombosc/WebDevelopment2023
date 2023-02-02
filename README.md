@@ -166,6 +166,11 @@ Day 4:
 - will dedicate a full weekend to terminal and github, plus work on my portfolio
 - started a side project in which I record my progress in the form of a timelapse (me coding and learning each day pretty much, maybe I'll manage to combine passions)
 
+<strong> Day 24 </strong>:
+- almost no time today for anything pretty much, still got almost two hours of js exercises
+- my brain is fried, please bring fire extinguisher
+- object.fromEntries, new operator and some javascript exercises
+- pretty much just stared at code today
 
 
  
