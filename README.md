@@ -159,4 +159,18 @@ Day 4:
 - trying to get used with the terminal and git, going to take a while
 - looked over javascript exercises again, practicing again
 - as a side note, did lots of calculations for my engineering thesis
+  
+<strong> Day 23 </strong>:
+- revised all notes until now
+- taking my time with javascript exercises, trying to practicee and fully understand
+- will dedicate a full weekend to terminal and github, plus work on my portfolio
+- started a side project in which I record my progress in the form of a timelapse (me coding and learning each day pretty much, maybe I'll manage to combine passions)
+
+<strong> Day 24 </strong>:
+- almost no time today for anything pretty much, still got almost two hours of js exercises
+- my brain is fried, please bring fire extinguisher
+- object.fromEntries, new operator and some javascript exercises
+- pretty much just stared at code today
+
+
  
