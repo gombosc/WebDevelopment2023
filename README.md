@@ -172,5 +172,12 @@ Day 4:
 - object.fromEntries, new operator and some javascript exercises
 - pretty much just stared at code today
 
+<strong> Day 25 </strong>:
+-
+-
+-
+-
+-
+
 
  
