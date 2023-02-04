@@ -173,11 +173,11 @@ Day 4:
 - pretty much just stared at code today
 
 <strong> Day 25 </strong>:
--
--
--
--
--
+- finished all Javascript exercises, spent more time on advanced looping
+- started javascript exercises on w3, did 21 out of 67
+- spent 30 minutes trying to figure out why a correct function would not run only to discovered that I've not declared one variable so that the if function wouldn't run
+- coding is fun, my head hurts
+- not much time to code, I've organized my time badly and ended up coding after midnight
 
 
  
