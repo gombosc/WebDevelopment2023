@@ -187,5 +187,7 @@ Day 4:
 
 <strong> Day 27 </strong>:
 - discovered and finished all the games from "https://silentteacher.toxicode.fr/", a nice little website with introductory js concepts
+- went on and looked around code-pen, discovered "https://exercism.org/" and realised I need to work more on javascript
+- also discovered "https://edabit.com/challenges/javascript" and "https://www.jschallenger.com/javascript-practice/javascript-fundamentals"
 
  
