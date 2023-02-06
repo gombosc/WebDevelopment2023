@@ -179,9 +179,8 @@ Day 4:
 - coding is fun, my head hurts
 - not much time to code, I've organized my time badly and ended up coding after midnight
 
-
 <strong> Day 26 </strong>:
-- next week is going to be really crowded so will try to get at least one to two hours of coding everry day
+- next week is going to be really crowded so will try to get at least one to two hours of coding every day
 - for the next seven days I will focus solely on Javascript exercises
 - today I've finished the js exercises from w3shools, plus read a bit and researched the best places for js exercises
 - wanted to try'an exercise based on fetching the user ip, realised it would be better to try it again a bit later
