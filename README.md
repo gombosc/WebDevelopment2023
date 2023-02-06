@@ -179,6 +179,7 @@ Day 4:
 - coding is fun, my head hurts
 - not much time to code, I've organized my time badly and ended up coding after midnight
 
+
 <strong> Day 26 </strong>:
 - next week is going to be really crowded so will try to get at least one to two hours of coding everry day
 - for the next seven days I will focus solely on Javascript exercises
@@ -189,5 +190,7 @@ Day 4:
 - discovered and finished all the games from "https://silentteacher.toxicode.fr/", a nice little website with introductory js concepts
 - went on and looked around code-pen, discovered "https://exercism.org/" and realised I need to work more on javascript
 - also discovered "https://edabit.com/challenges/javascript" and "https://www.jschallenger.com/javascript-practice/javascript-fundamentals"
+
+<strong> Day 28 </strong>:
 
  
