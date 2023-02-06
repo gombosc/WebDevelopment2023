@@ -192,8 +192,8 @@ Day 4:
 - also discovered "https://edabit.com/challenges/javascript" and "https://www.jschallenger.com/javascript-practice/javascript-fundamentals"
 
 <strong> Day 28 </strong>:
--
--
--
+- started "JavaScript Web Projects: 20 Projects to Build Your Portfolio"
+- working on the quote generator, will start React section after 2-3 projects and a portfolio website
+
 
  
