@@ -194,5 +194,11 @@ Day 4:
 - started "JavaScript Web Projects: 20 Projects to Build Your Portfolio"
 - working on the quote generator, will start React section after 2-3 projects and a portfolio website
 
+<strong> Day 29 </strong>
+- continued with the Quote Generator exercise
+- practiced CSS some more, plus HTML
+- learnt more about asynchronous functions, APIs and fetch, await, try, catch functions
+- almost one month of daily coding, almost done with my engineering bachelor thesis too.
+
 
  
