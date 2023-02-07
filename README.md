@@ -180,9 +180,19 @@ Day 4:
 - not much time to code, I've organized my time badly and ended up coding after midnight
 
 <strong> Day 26 </strong>:
-- next week is going to be really crowded so will try to get at least one to two hours of coding everry day
+- next week is going to be really crowded so will try to get at least one to two hours of coding every day
 - for the next seven days I will focus solely on Javascript exercises
 - today I've finished the js exercises from w3shools, plus read a bit and researched the best places for js exercises
 - wanted to try'an exercise based on fetching the user ip, realised it would be better to try it again a bit later
+
+<strong> Day 27 </strong>:
+- discovered and finished all the games from "https://silentteacher.toxicode.fr/", a nice little website with introductory js concepts
+- went on and looked around code-pen, discovered "https://exercism.org/" and realised I need to work more on javascript
+- also discovered "https://edabit.com/challenges/javascript" and "https://www.jschallenger.com/javascript-practice/javascript-fundamentals"
+
+<strong> Day 28 </strong>:
+- started "JavaScript Web Projects: 20 Projects to Build Your Portfolio"
+- working on the quote generator, will start React section after 2-3 projects and a portfolio website
+
 
  
