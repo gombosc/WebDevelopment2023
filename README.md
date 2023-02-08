@@ -200,5 +200,11 @@ Day 4:
 - learnt more about asynchronous functions, APIs and fetch, await, try, catch functions
 - almost one month of daily coding, almost done with my engineering bachelor thesis too.
 
+<strong> Day 30 </strong>
+- continued with Quote Generator, almost finished it
+- managed to write code for DOM manipulation on my own, glad that I kind of understand it now
+- need to check 'Scope' again, had a problem with variables that were declared inside a function and I tried accesing them outside of the function 
+- little time to code till Sunday but I'll manage it 
+
 
  
