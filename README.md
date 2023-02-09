@@ -206,5 +206,10 @@ Day 4:
 - need to check 'Scope' again, had a problem with variables that were declared inside a function and I tried accesing them outside of the function 
 - little time to code till Sunday but I'll manage it 
 
+<strong> Day 31 </strong>
+- continued with Quote Generator, made it work
+- still got to add a few things
+- weak coding day but almost finished thesis so okay
+
 
  
