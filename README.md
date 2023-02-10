@@ -211,5 +211,8 @@ Day 4:
 - still got to add a few things
 - weak coding day but almost finished thesis so okay
 
+<strong> Day 32 </strong>
+- finally finished Quote Generator, learned a lot about APIs
+
 
  
