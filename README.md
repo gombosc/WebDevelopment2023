@@ -214,5 +214,10 @@ Day 4:
 <strong> Day 32 </strong>
 - finally finished Quote Generator, learned a lot about APIs
 
+<strong> Day 33 </strong>
+- started Unsplash Infinite Scroll
+- Finished HTML and CSS part
+
+
 
  
