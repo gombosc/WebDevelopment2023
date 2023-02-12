@@ -218,6 +218,11 @@ Day 4:
 - started Unsplash Infinite Scroll
 - Finished HTML and CSS part
 
+-<strong> Day 34 </strong>
+- continuing with Infinite Scroll
+- working with Unsplash API, learnt more about asynchronous functions
+- images are not display, will troubleshoot tomorrow
+
 
 
  
