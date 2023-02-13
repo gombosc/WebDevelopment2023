@@ -218,10 +218,19 @@ Day 4:
 - started Unsplash Infinite Scroll
 - Finished HTML and CSS part
 
--<strong> Day 34 </strong>
+<strong> Day 34 </strong>
 - continuing with Infinite Scroll
 - working with Unsplash API, learnt more about asynchronous functions
 - images are not display, will troubleshoot tomorrow
+
+<strong> Day 35 </strong>
+- finished Infinite Scroll, need to clean code a little
+- Initial Load value doesn't update count, still need to figure out why
+- app works as intended, learnt alot from this project
+- managed to debug a problem in the code on my own by using the debugger and going step by step through the code, realised what the error was and fixed it (I was trying to access an object key that I've written wrong, `.` instead of `_`. Spent almost 30 minutes figuring this out
+- scrollY, scrollX, offSetHeight, innerHeight
+- learnt how to create a helper function to setting attributes on DOM Elements
+- played more with developer tools like network and debugger
 
 
 
