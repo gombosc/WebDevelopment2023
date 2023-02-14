@@ -232,6 +232,11 @@ Day 4:
 - learnt how to create a helper function to setting attributes on DOM Elements
 - played more with developer tools like network and debugger
 
+<strong> Day 36 </strong>
+- started third Javascript Project, Picture in Picture.
+- practiced CSS a bit, reading articles and exploring different types of projects
+
+
 
 
  
