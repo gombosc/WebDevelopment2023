@@ -235,6 +235,7 @@ Day 4:
 <strong> Day 36 </strong>
 - started third Javascript Project, Picture in Picture.
 - practiced CSS a bit, reading articles and exploring different types of projects
+- created new repo for the "20 Javascript Projects Course"
 
 
 
