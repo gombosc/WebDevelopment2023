@@ -237,6 +237,12 @@ Day 4:
 - practiced CSS a bit, reading articles and exploring different types of projects
 - created new repo for the "20 Javascript Projects Course"
 
+<strong> Day 37 </strong>
+- finished third Javascript Project, Picture in Picture.
+- learned about media stream and browser compatibility
+- getting a better grasp over how some basic applications work
+- going back to the main course tomorrow
+
 
 
 
