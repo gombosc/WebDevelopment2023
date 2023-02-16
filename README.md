@@ -243,6 +243,12 @@ Day 4:
 - getting a better grasp over how some basic applications work
 - going back to the main course tomorrow
 
+<strong> Day 38 </strong>:
+- started 4th project: Joke Teller
+- learnt about SDK and more about fetch
+- things are starting to make more sense
+- decided to do another project because I have too much going on with my thesis and prefer to practice with examples than learning new things until I'm done
+
 
 
 
