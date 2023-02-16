@@ -248,7 +248,7 @@ Day 4:
 - learnt about SDK and more about fetch
 - things are starting to make more sense
 - decided to do another project because I have too much going on with my thesis and prefer to practice with examples than learning new things until I'm done
-
+- update: finished joke teller but still want to add a few custom things to it
 
 
 
