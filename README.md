@@ -250,7 +250,10 @@ Day 4:
 - decided to do another project because I have too much going on with my thesis and prefer to practice with examples than learning new things until I'm done
 - update: finished joke teller but still want to add a few custom things to it
 
-
-Now button is disabled while joke is told
-A button now appears which when pressed shows joke text
+<strong> Day 39 </strong>:
+- Added a new function to the Joke Teller. Now button is disabled while the joke is told and a new button appears which when pressed shows joke text. Initially I wanted to create the elements through dom when the button is pressed but got stuck a bit and created them in the html and set them to hidden. 
+- still need to format css for new button and p
+- should look into creating the elements when the joke button is pressed
+- used setTimeout function to delay appearance of button
+- should look into scope again
  
