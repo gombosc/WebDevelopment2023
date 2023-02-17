@@ -251,5 +251,6 @@ Day 4:
 - update: finished joke teller but still want to add a few custom things to it
 
 
-
+Now button is disabled while joke is told
+A button now appears which when pressed shows joke text
  
