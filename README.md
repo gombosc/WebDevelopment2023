@@ -262,4 +262,6 @@ Day 4:
 - Learning about CSS variables, the custom property notation, accesing the custom propery, benefit as a semantic identifier (common best practice to use it on root pseudo class)
 - custom properties fallback values
 - article on dark mode design "https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637"
+- working on css and html for the moment
+- highly stressed but okay 
  
