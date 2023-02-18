@@ -256,4 +256,10 @@ Day 4:
 - should look into creating the elements when the joke button is pressed
 - used setTimeout function to delay appearance of button
 - should look into scope again
+
+<strong> Day 40 </strong>:
+- started Dark Mode project
+- Learning about CSS variables, the custom property notation, accesing the custom propery, benefit as a semantic identifier (common best practice to use it on root pseudo class)
+- custom properties fallback values
+- article on dark mode design "https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637"
  
