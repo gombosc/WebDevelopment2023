@@ -264,4 +264,10 @@ Day 4:
 - article on dark mode design "https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637"
 - working on css and html for the moment
 - highly stressed but okay 
+
+<strong> Day 41 </strong>:
+- continuing with Dark Mode project, reached javascript part
+- z index, event target, <select onchange>, oninput, element.setAttribute
+- wrapping my head around document.documentElement
+- created input button in label with a slider that toggles theme off and on, kinda works still needs works
  
