@@ -268,6 +268,7 @@ Day 4:
 <strong> Day 41 </strong>:
 - continuing with Dark Mode project, reached javascript part
 - z index, event target, <select onchange>, oninput, element.setAttribute
-- wrapping my head around document.documentElement
-- created input button in label with a slider that toggles theme off and on, kinda works still needs works
+
+<strong> Day 42 </strong>:
+- created dark and light mode functions that change the color of the p element, navbar and images when the button is pressed
  
