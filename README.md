@@ -271,4 +271,5 @@ Day 4:
 
 <strong> Day 42 </strong>:
 - created dark and light mode functions that change the color of the p element, navbar and images when the button is pressed
+- almost finished, still have to review code and try to optimize it as to not repeat myself
  
