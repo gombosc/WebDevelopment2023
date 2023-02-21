@@ -273,4 +273,8 @@ Day 4:
 - created dark and light mode functions that change the color of the p element, navbar and images when the button is pressed
 - almost finished, still have to review code and try to optimize it as to not repeat myself
 - created a local storage that keeps the current chosen theme when refreshing page
+
+<strong> Day 43 </strong>:
+- finished with updating code for dark theme, updated dark and light functions with a shorter function that uses ternary operators
+- started Animated Template, just checking and understanding code for now, using Tailwind Starter Kit
  
