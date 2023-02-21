@@ -277,4 +277,5 @@ Day 4:
 <strong> Day 43 </strong>:
 - finished with updating code for dark theme, updated dark and light functions with a shorter function that uses ternary operators
 - started Animated Template, just checking and understanding code for now, using Tailwind Starter Kit
+- finished bachelor thesis last night, not much time for coding 
  
