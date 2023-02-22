@@ -283,4 +283,5 @@ Day 4:
 - no time to breath, thesis presentation at 8 AM, speach still not done, ---- if (sleep?.null) log('what...') (current hour: 11:47)
 - squeezing an hour of coding for consistency's sake
 - continuing animated template
+- script async, script defer
 
