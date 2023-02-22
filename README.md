@@ -267,7 +267,7 @@ Day 4:
 
 <strong> Day 41 </strong>:
 - continuing with Dark Mode project, reached javascript part
-- z index, event target, <select onchange>, oninput, element.setAttribute
+- z index, event target, select onchange, oninput, element.setAttribute
 
 <strong> Day 42 </strong>:
 - created dark and light mode functions that change the color of the p element, navbar and images when the button is pressed
