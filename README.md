@@ -279,3 +279,8 @@ Day 4:
 - started Animated Template, just checking and understanding code for now, using Tailwind Starter Kit
 - finished bachelor thesis last night, not much time for coding 
  
+<strong> Day 43 </strong>:
+- no time to breath, thesis presentation at 8 AM, speach still not done, ---- if (sleep?.null) log('what...') (current hour: 11:47)
+- squeezing an hour of coding for consistency's sake
+- continuing animated template
+
