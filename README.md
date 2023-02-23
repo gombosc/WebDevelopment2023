@@ -285,3 +285,7 @@ Day 4:
 - continuing animated template
 - script async, script defer
 
+ 
+<strong> Day 45 </strong>:
+- done with thesis, graduated
+- almost finished animated template, only a hour of coding but need rest
