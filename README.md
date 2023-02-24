@@ -289,3 +289,5 @@ Day 4:
 <strong> Day 45 </strong>:
 - done with thesis, graduated
 - almost finished animated template, only a hour of coding but need rest
+
+<strong> Day 46 </strong>:
