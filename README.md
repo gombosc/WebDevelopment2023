@@ -291,3 +291,7 @@ Day 4:
 - almost finished animated template, only a hour of coding but need rest
 
 <strong> Day 46 </strong>:
+- finished animated project. could still work a bit on it and play around
+- read more on async and defer as well as on problem solving
+- started git section again, need to figure it out already
+- feels weird to have free time again, moving out on Monday tho
