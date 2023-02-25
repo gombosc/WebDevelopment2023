@@ -295,3 +295,6 @@ Day 4:
 - read more on async and defer as well as on problem solving
 - started git section again, need to figure it out already
 - feels weird to have free time again, moving out on Monday tho
+  
+  <strong> Day 47 </strong>:
+- 
