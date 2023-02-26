@@ -296,5 +296,8 @@ Day 4:
 - started git section again, need to figure it out already
 - feels weird to have free time again, moving out on Monday tho
   
-  <strong> Day 47 </strong>:
+<strong> Day 47 </strong>:
 - continuing with Github
+
+<strong> Day 48 </strong>:
+- 
