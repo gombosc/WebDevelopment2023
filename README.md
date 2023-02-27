@@ -300,4 +300,7 @@ Day 4:
 - continuing with Github
 
 <strong> Day 48 </strong>:
-- 
+- getting frustrated with github
+  
+<strong> Day 49 </strong>:
+- don't have time to even breath lol
