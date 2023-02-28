@@ -303,4 +303,6 @@ Day 4:
 - getting frustrated with github
   
 <strong> Day 49 </strong>:
-- don't have time to even breath lol
+- finally managed to remotely update git, created and cloned a remote repo, branched and merged
+- learnt about upstream branch, echo, checkout, push origin and so on
+- busy days moving out (worked on the car today, screwdriwer got lost somewhere inside engine room...)
