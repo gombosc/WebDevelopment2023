@@ -306,3 +306,6 @@ Day 4:
 - finally managed to remotely update git, created and cloned a remote repo, branched and merged
 - learnt about upstream branch, echo, checkout, push origin and so on
 - busy days moving out (worked on the car today, screwdriwer got lost somewhere inside engine room...)
+
+<strong> Day 50 </strong>
+- continuing with github
