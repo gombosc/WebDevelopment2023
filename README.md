@@ -285,7 +285,6 @@ Day 4:
 - continuing animated template
 - script async, script defer
 
- 
 <strong> Day 45 </strong>:
 - done with thesis, graduated
 - almost finished animated template, only a hour of coding but need rest
@@ -308,4 +307,6 @@ Day 4:
 - busy days moving out (worked on the car today, screwdriwer got lost somewhere inside engine room...)
 
 <strong> Day 50 </strong>
-- continuing with github
+- continuing with github, created a fork for zero to mastery
+- learnt about open source projects, managed to use git to add my name to the contributors list in the organization 
+- learning to use the terminal one step at a time
