@@ -310,3 +310,7 @@ Day 4:
 - continuing with github, created a fork for zero to mastery
 - learnt about open source projects, managed to use git to add my name to the contributors list in the organization 
 - learning to use the terminal one step at a time
+
+<strong> Day 51 </strong>
+- moved to Vienna, new beginnings
+
