@@ -313,4 +313,6 @@ Day 4:
 
 <strong> Day 51 </strong>
 - moved to Vienna, new beginnings
+- finished git, finally understand it
+- starting npm section
 
