@@ -320,3 +320,6 @@ Day 4:
 - almost finished with the npm, kinda undertand it (need to put in some extra hours this weekend so to practice a bit)
 - slow days, no internet connection yet so I'm not able to do as much as I would like (downloaded the course offline tho)
 
+<strong> Day 53 </strong>
+-
+
