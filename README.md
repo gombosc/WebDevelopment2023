@@ -321,5 +321,19 @@ Day 4:
 - slow days, no internet connection yet so I'm not able to do as much as I would like (downloaded the course offline tho)
 
 <strong> Day 53 </strong>
--
+- finished NPM scripts 
+- started React section
+- need to create a portfolio using the simplefolio template when I get the internet installed
+- SCSS and npm commands
+
+<strong> Day 54 </strong>
+- learning more about React, getting used to the syntax
+- starting robofriends using npx command which represents a package manager
+- thinking in components (atoms, molecules, organisms, templates, pages)
+- one way data flow (dirty vs re-rendered)
+- virtual DOM
+- npx "create-react-app", npm start, run build, test, eject
+- .gitignonre
+- ReactDOM.render()
+- JSX
 
