@@ -345,4 +345,5 @@ Day 4:
 - ReactNative, ReactDOM
 - tachyons library
 - props and separation of concerns
-- had a problem with npm, had to troubleshoot and uninstall node 
+- had a problem with npm, had to troubleshoot and uninstall node (still didn't fix it)
+- rmdir and some terminal stuff
