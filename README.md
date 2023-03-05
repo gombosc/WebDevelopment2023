@@ -337,3 +337,12 @@ Day 4:
 - ReactDOM.render()
 - JSX
 
+<strong> Day 55 </strong>
+- no Internet, hard to research or update stuff
+- continuing with react
+- functional components vs class components
+- hooks vs classes
+- ReactNative, ReactDOM
+- tachyons library
+- props and separation of concerns
+- had a problem with npm, had to troubleshoot and uninstall node 
