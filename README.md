@@ -346,3 +346,6 @@ Day 4:
 - tachyons library
 - props and separation of concerns
 - had a problem with npm, had to troubleshoot and uninstall node 
+
+<strong>Day 56 </strong>
+- 
