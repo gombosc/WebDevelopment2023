@@ -357,3 +357,4 @@ Day 4:
 - created card.js and added three robots
 - modified index.js and used destructuring to add the items from robots.js to the cards
 - added tachyonds packet, still need to research it
+- tried to add the repository inside another repository, broke something, oh well...
