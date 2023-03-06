@@ -349,4 +349,11 @@ Day 4:
 - rmdir and some terminal stuff
 
 <strong>Day 56 </strong>
-- 
+- continuing with react
+- destructuring 
+- created card.js 
+- understanding reacting syntax one step at a time
+- created robofriends in a different folder than git origin and struggling for some reason to add it
+- created card.js and added three robots
+- modified index.js and used destructuring to add the items from robots.js to the cards
+- added tachyonds packet, still need to research it
