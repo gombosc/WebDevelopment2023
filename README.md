@@ -357,3 +357,9 @@ Day 4:
 - created card.js and added three robots
 - modified index.js and used destructuring to add the items from robots.js to the cards
 - added tachyonds packet, still need to research it
+
+<strong> Day 57 </strong>
+- continuing React
+- service workers, React.Fragment and Semantic HTML, React.StrictMode
+- use Fragment to render sibling elements "<> </>" || "<Fragment> </Fragment>"
+- learning to search through the documents of frameworks, or at least trying
