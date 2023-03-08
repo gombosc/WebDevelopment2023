@@ -368,3 +368,6 @@ Day 4:
 <strong> Day 58 </strong>
 - apparently every class I have in Uni uses heavy math, SOS...
 - continuing with React
+- spent an hour debugging why my App is not showing when started (jeez...)
+- created app.js, used map to iterate robots elements, created search bar but still need to implement search function 
+- daily agenda: muay thai from 7:30, classes from 9:30 to 8PM with a three hour break, coding, metro, reading, writing, collapsing 
