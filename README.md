@@ -364,3 +364,7 @@ Day 4:
 - service workers, React.Fragment and Semantic HTML, React.StrictMode
 - use Fragment to render sibling elements "<> </>" || "<Fragment> </Fragment>"
 - learning to search through the documents of frameworks, or at least trying
+
+<strong> Day 58 </strong>
+- apparently every class I have in Uni uses heavy math, SOS...
+- continuing with React
