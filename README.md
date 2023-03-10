@@ -376,4 +376,6 @@ Day 4:
 - only reading on React and articles, it's really late and just wanted to put in a little bit of studying
   
 <strong> Day 60 </strong>
--
+- Finished the Quick Start article in React, still need to revisit it once I'm a bit more refreshed
+- started "Thinking in React"
+- continuing with the robofriends app, not much energy left for coding
