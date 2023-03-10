@@ -373,4 +373,7 @@ Day 4:
 - daily agenda: muay thai from 7:30, classes from 9:30 to 8PM with a three hour break, coding, metro, reading, writing, collapsing 
 
 <strong> Day 59 </strong>
-- only reading on React and articles, it's really late and just wanted to put in a little bit
+- only reading on React and articles, it's really late and just wanted to put in a little bit of studying
+  
+<strong> Day 60 </strong>
+-
