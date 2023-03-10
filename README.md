@@ -371,3 +371,6 @@ Day 4:
 - spent an hour debugging why my App is not showing when started (jeez...)
 - created app.js, used map to iterate robots elements, created search bar but still need to implement search function 
 - daily agenda: muay thai from 7:30, classes from 9:30 to 8PM with a three hour break, coding, metro, reading, writing, collapsing 
+
+<strong> Day 59 </strong>
+- only reading on React and articles, it's really late and just wanted to put in a little bit
