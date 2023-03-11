@@ -379,3 +379,6 @@ Day 4:
 - Finished the Quick Start article in React, still need to revisit it once I'm a bit more refreshed
 - started "Thinking in React"
 - continuing with the robofriends app, not much energy left for coding
+  
+<strong> Day 61 </strong>
+-
