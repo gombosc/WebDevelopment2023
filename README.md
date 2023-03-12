@@ -381,4 +381,6 @@ Day 4:
 - continuing with the robofriends app, not much energy left for coding
   
 <strong> Day 61 </strong>
--
+- trying to really understand React, headache incoming
+  
+<strong>Day 61 </strong>
