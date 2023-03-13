@@ -6,6 +6,7 @@ import App from "./App"
 import 'tachyons';    // we use tachyons to style elements directly, represents a package
 import reportWebVitals from './reportWebVitals';
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

@@ -8,7 +8,7 @@ const Card = ({id, name, email }) =>{        // this actually represents {props}
     <div className='tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>  {/* tachyons elements inside className*/}
       <img src={`https://robohash.org/${id}?200x200`} alt='Robots'></img>
       <div>
-        <h1>{name}</h1>        {/* this represent props.name */}
+        <h2>{name}</h2>        {/* this represent props.name */}
         <p>{email}</p>          {/* this represent props.email */}
       </div>
     </div>
