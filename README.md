@@ -389,4 +389,9 @@ Day 4:
 - slow days, my focus is not the best
   
 <strong>Day 63 </strong>
--
+- need to somehow organize my time better, Uni hits hard 
+- continuing studying a bit about JSON Request Circle, XHR and XMLHttpRequests
+- more XHR, web responsiveness, media queries, W3.CSS, Boostrap as a framework too, 
+- learnt about XML (eXtensible Markup Language) and AJAX (asynchronous Javascript and XML)
+- read on game theory (if it counts)
+- need to try and do a react project on my own when I get the time
