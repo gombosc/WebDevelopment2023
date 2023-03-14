@@ -383,4 +383,7 @@ Day 4:
 <strong> Day 61 </strong>
 - trying to really understand React, headache incoming
   
-<strong>Day 61 </strong>
+<strong>Day 62 </strong>
+- took a break from React, kind of (still did some css to the components)
+- reading on JSON today and the WWW, HTTP Requests and Responses
+- slow days, my focus is not the best
