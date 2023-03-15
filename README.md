@@ -395,3 +395,6 @@ Day 4:
 - learnt about XML (eXtensible Markup Language) and AJAX (asynchronous Javascript and XML)
 - read on game theory (if it counts)
 - need to try and do a react project on my own when I get the time
+
+<strong> Day 64 </strong>
+- 
