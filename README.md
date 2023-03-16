@@ -397,4 +397,7 @@ Day 4:
 - need to try and do a react project on my own when I get the time
 
 <strong> Day 64 </strong>
-- 
+- almost finished React, life cycle hooks, mounting, fetch and response APIs, JSX
+- props, state, children
+- created the scrollable children with a scroll component wrapping Cardslist
+- used fetch and json api to get random users to load into the cards
