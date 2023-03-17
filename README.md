@@ -407,3 +407,6 @@ Day 4:
 - cleaned my code, created folders for components and containers and so on
 - decided to postpone tic tac toe till finishing react, probably starting tomorrow
 - js classes, extend, super again
+
+<strong> Day 65 </strong>
+-
