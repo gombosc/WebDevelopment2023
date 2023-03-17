@@ -403,5 +403,7 @@ Day 4:
 - used fetch and json api to get random users to load into the cards
   
   <strong> Day 65 </strong>
--
--
+- almost finished React
+- cleaned my code, created folders for components and containers and so on
+- decided to postpone tic tac toe till finishing react, probably starting tomorrow
+- js classes, extend, super again
