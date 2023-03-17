@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from "./App"
+import App from "./container/App.js"
 // import {robots} from './robots';    // if the import is not default we need to use destructuring, which is made in brackets {}
 import 'tachyons';    // we use tachyons to style elements directly, represents a package
 import reportWebVitals from './reportWebVitals';

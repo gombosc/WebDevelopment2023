@@ -1,9 +1,10 @@
 import React, {Component} from "react";
-import SearchBox from "./SearchBox";
-import CardList from "./CardList";
+import SearchBox from "../components/SearchBox";
+import CardList from "../components/Cardlist";
 // import {robots} from './robots';
-import'./App.css';
-import Scroll from "./Scroll";
+import'../container/App.css';
+import Scroll from "../components/Scroll";
+import "../container/SEGA.woff"
 
 // props are simply things that come out of state
 //  State >> props
@@ -27,14 +28,13 @@ class App extends Component {
     }
     
     render(){
-        const filteredRobots = this.state.robots.filter(robots =>{
-        return robots.name.toLowerCase().includes(this.state.searchField.toLowerCase())})
-            
-        if(this.state.robots.lenght === 0){
-            return <h1>Loading</h1>;
-        }
-        else {
-        return (
+        const {robots, searchField} = this.state;
+        const filteredRobots = robots.filter(robots =>{
+        return robots.name.toLowerCase().includes(searchField.toLowerCase())})
+        
+        return !robots.lenght ?
+        <h1>Loading</h1>:
+        (
         <div className="tc">
         <h1 className="f1">Robofriends</h1>
         <SearchBox searchChange = {this.onSearchChange}/>
@@ -43,7 +43,6 @@ class App extends Component {
         </Scroll>
         </div>
     )
-  };
-}}
+    }}
 
 export default App;
