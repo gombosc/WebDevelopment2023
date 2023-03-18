@@ -408,5 +408,15 @@ Day 4:
 - decided to postpone tic tac toe till finishing react, probably starting tomorrow
 - js classes, extend, super again
 
-<strong> Day 65 </strong>
--
+<strong> Day 66 (March 17) </strong>
+- finished React section
+- Error Boundary in React, ComponentDidCatch(error, info), throw new Error()
+- GitHub Pages (still need to add)
+- fixed the bugged that kept robofriends in loading state
+
+<strong> Day 67 (March 18) </strong>
+- started section 20, HTTP, JSON, AJAX and Asynch JS
+- HTTP requests and responses (get, post, put, delete), query string parameters or body,
+- browers requests, server responds
+- JSON.parse(), JSON.stringify()
+- fetch, even though I learnt about these recently
