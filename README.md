@@ -364,3 +364,62 @@ Day 4:
 - service workers, React.Fragment and Semantic HTML, React.StrictMode
 - use Fragment to render sibling elements "<> </>" || "<Fragment> </Fragment>"
 - learning to search through the documents of frameworks, or at least trying
+
+<strong> Day 58 </strong>
+- apparently every class I have in Uni uses heavy math, SOS...
+- continuing with React
+- spent an hour debugging why my App is not showing when started (jeez...)
+- created app.js, used map to iterate robots elements, created search bar but still need to implement search function 
+- daily agenda: muay thai from 7:30, classes from 9:30 to 8PM with a three hour break, coding, metro, reading, writing, collapsing 
+
+<strong> Day 59 </strong>
+- only reading on React and articles, it's really late and just wanted to put in a little bit of studying
+  
+<strong> Day 60 </strong>
+- Finished the Quick Start article in React, still need to revisit it once I'm a bit more refreshed
+- started "Thinking in React"
+- continuing with the robofriends app, not much energy left for coding
+  
+<strong> Day 61 </strong>
+- trying to really understand React, headache incoming
+  
+<strong>Day 62 </strong>
+- took a break from React, kind of (still did some css to the components)
+- reading on JSON today and the WWW, HTTP Requests and Responses
+- slow days, my focus is not the best
+  
+<strong>Day 63 </strong>
+- need to somehow organize my time better, Uni hits hard 
+- continuing studying a bit about JSON Request Circle, XHR and XMLHttpRequests
+- more XHR, web responsiveness, media queries, W3.CSS, Boostrap as a framework too, 
+- learnt about XML (eXtensible Markup Language) and AJAX (asynchronous Javascript and XML)
+- read on game theory (if it counts)
+- need to try and do a react project on my own when I get the time
+
+<strong> Day 64 </strong>
+- almost finished React, life cycle hooks, mounting, fetch and response APIs, JSX
+- props, state, children
+- created the scrollable children with a scroll component wrapping Cardslist
+- used fetch and json api to get random users to load into the cards
+  
+  <strong> Day 65 </strong>
+- almost finished React
+- cleaned my code, created folders for components and containers and so on
+- decided to postpone tic tac toe till finishing react, probably starting tomorrow
+- js classes, extend, super again
+
+<strong> Day 66 (March 17) </strong>
+- finished React section
+- Error Boundary in React, ComponentDidCatch(error, info), throw new Error()
+- GitHub Pages (still need to add)
+- fixed the bugged that kept robofriends in loading state
+
+<strong> Day 67 (March 18) </strong>
+- started section 20, HTTP, JSON, AJAX and Asynch JS
+- HTTP requests and responses (get, post, put, delete), query string parameters or body,
+- browers requests, server responds
+- JSON.parse(), JSON.stringify()
+- fetch, even though I learnt about these recently
+
+<strong> Day 68 (March 19) </strong>
+-
