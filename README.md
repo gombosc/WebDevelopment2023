@@ -426,3 +426,6 @@ Day 4:
 - promises and applied exercise (promise.all, set.Timeout())
 - Asyc again, await and fetch (pretty standard, took some users from the api and played around a bit)
 - will go back to react a bit before starting the bigger project, would like to get a better grasp
+
+<strong> Day 69 (March 20) </strong>
+- 
