@@ -428,7 +428,16 @@ Day 4:
 - will go back to react a bit before starting the bigger project, would like to get a better grasp
 
 <strong> Day 69 (March 20) </strong>
-- 
+- more with promises, ES8 and async await *fetch().then()*, ES9
+- finished section 20 
 
 <strong> Day 70 </strong>
-- 
+- ES9, Object Spread Operator *finally()*
+- more examples for async functions
+- promise.allSettled(), promise.any()
+- intro to Backend
+- deliberate practice, perceived limit, kendo
+- things to look into: advantages and shortcomings of React
+
+<strong> Day 71 </strong>
+
