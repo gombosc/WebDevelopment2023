@@ -14,3 +14,11 @@ Promise.all(urls.map(url => {return fetch(url).then(resp => resp.json())}))
 }
 )
 .catch(() => console.log('error'));
+
+
+async function starWarsApi(){
+    const resp = await fetch('');
+    const data = await resp.json()
+    console.log(data);
+
+}
