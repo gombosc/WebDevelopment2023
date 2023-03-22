@@ -443,6 +443,6 @@ Day 4:
 - more on books, motivation, Andrei's journey
 - Quote "Provide more value than you capture"
 - searching for some motivation cause I'm tired and just got rejected from the Uni I really wanted
-- working on a simple API example, fetching data and displaying it on a page, need to refresh my object knowledge
+- working on a simple API example, fetching data and displaying it on a page through DOM, need to refresh my object knowledge
 - it seems I need to look up functions and parameters again
 - promise and fetch example, looking more into Api's
