@@ -446,3 +446,7 @@ Day 4:
 - working on a simple API example, fetching data and displaying it on a page through DOM, need to refresh my object knowledge
 - it seems I need to look up functions and parameters again
 - promise and fetch example, looking more into Api's
+
+<strong> Day 72 </strong>
+- managed to make the API work, it nows fetches the data and shows them in the HTML when a button is clicked
+- 
