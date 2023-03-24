@@ -449,4 +449,6 @@ Day 4:
 
 <strong> Day 72 </strong>
 - managed to make the API work, it nows fetches the data and shows them in the HTML when a button is clicked
-- 
+- added styles with tachyons, read more on its documentation
+- created a function to loop through each user when button is clicked, as well as removing elements and displaying message when no users left
+- practiced fixing problems on my own and researching
