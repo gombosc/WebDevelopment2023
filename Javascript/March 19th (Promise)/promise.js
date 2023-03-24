@@ -1,8 +1,10 @@
-//  Grabing DOM elements
+
+    //  Grabing DOM elements
 const button = document.getElementById('btn');
 const usersAPI =document.getElementById('users') 
 const postsAPI =document.getElementById('posts') 
 const commentsAPI =document.getElementById('comments')
+const divElement =document.getElementById('Wrapper')
 
 const urls = [
     'https://jsonplaceholder.typicode.com/users',
@@ -33,28 +35,39 @@ function showDataFromApi(users, posts, comments){
     usersAPI.innerHTML = 'User Name: ' + users;
     postsAPI.innerHTML = 'Posts: ' + posts;
     commentsAPI.innerHTML = 'Comments: ' + comments;
-    
+    divElement.style.backgroundColor = '#fbf1a9';
  }
 
-// Method 3
+ let i = 0;
+// Method 3 - the one I use in the HTML
  const getData = async function(){
     try{
         const[users, posts, comments] = await Promise.allSettled(urls.map(url => fetch(url)
         .then(resp => resp.json())
         ))
-        console.log("Users: ", users.value[1].name);
-        console.log("Posts: ", posts.value[1].title);
-        console.log("Comments: ", comments)
-        usersValue = users.value[1].name;
-        postsValue = posts.value[1].title;
-        commentsValue = comments.value[1].name;
+     
+        usersValue = users.value[i].name;
+        postsValue = posts.value[i].title;
+        commentsValue = comments.value[i].name;
+        console.log("Users: ", usersValue);
+        console.log("Posts: ", postsValue);
+        console.log("Comments: ", commentsValue);
+        i++;
+        console.log("Value of i is: ", i)
     }
     catch(error){
         console.log("Ops! A error occured...", error);
     }
-    
-    showDataFromApi(usersValue, postsValue, commentsValue);
+    // Take data from function and update h1 elements with API data
+    if(i<=9)
+        {showDataFromApi(usersValue, postsValue, commentsValue)}
+    else{
+        users.innerHTML = "Sorry, no more users!"
+        postsAPI.remove();
+        commentsAPI.remove()
+    };
  }
+
 
 
 
