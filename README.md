@@ -458,3 +458,7 @@ Day 4:
 - worked on the css template before working on the function
 - tried working with bootstrap some more, learning more about it 
 - doing stuff from scratch is pretty tough right now
+  
+<strong> Day 74 </strong>
+- 
+- 
