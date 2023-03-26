@@ -460,5 +460,9 @@ Day 4:
 - doing stuff from scratch is pretty tough right now
   
 <strong> Day 74 </strong>
-- 
-- 
+- learned again about basic html, get and post, form elements and types
+- modified the code a bit in order to be optimized
+
+<strong> Day 75 </strong>
+- break day
+
