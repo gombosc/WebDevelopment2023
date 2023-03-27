@@ -466,3 +466,10 @@ Day 4:
 <strong> Day 75 </strong>
 - break day
 
+<strong> Day 76 </strong>
+- read about AI, Google Bard, LAMBDA, DeepMind, ChatGpt, AGI, Google Ai Principles 7 in total, India Digitalization Fund by Google, LLM and Transformer Models
+- encountered an error while trying to make the Numbers API work, got stuck for two hours, managed to make it work with the help of the Discord community, which I must give my thanks
+- I was trying to use response.json for a response that was not json but plain text, used instead response.text() and then made it work
+- still need to finish API project
+- json, json.parse(), json.stringify()
+
