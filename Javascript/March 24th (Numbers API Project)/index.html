@@ -17,18 +17,22 @@
           </div>
           
         <button id="start-btn" type="button" class="btn-lg btn btn-warning" onclick="{showNumbersTrivia()}">
-            
             Press To Start </button>
         <!-- Remove this after first click -->
     </div>
 
-    <div id="NumbersTrivia" hidden>
+    <div id="NumbersTrivia" >
         <H1 class="text-yellow text-center">Please insert a number</H1>
+
         <div class="d-grid gap-2">
-            <form action="post" name="Choose and submit numbers">
-                <input min="0" type="number" title="Write a number here" placeholder="Choose a number"">
-                <button type="button" class="btn-lg btn btn-warning">Submit</button>
+
+            <form name="Choose and submit numbers">
+                <label for="numberValue"></label>
+                <input id="numberValue" min="1" max="1000" type="number" title="Write a number here" placeholder="Choose a number"" required >
+                <button id="btnValue" type="button" class="btn-lg btn btn-warning">Submit</button>
+                <h1 id="ApiResponse">Text</h1>
             </form>
+
             <div class="spinner-border text-warning" role="status">
                 <span class="visually-hidden">Loading...</span>
               </div>
@@ -41,5 +45,6 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
 <script src="script.js"></script>
+
 </body>
 </html>
