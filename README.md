@@ -452,3 +452,17 @@ Day 4:
 - added styles with tachyons, read more on its documentation
 - created a function to loop through each user when button is clicked, as well as removing elements and displaying message when no users left
 - practiced fixing problems on my own and researching
+
+<strong> Day 73 </strong>
+- started a new API project, insert a number that returns some info about that number
+- worked on the css template before working on the function
+- tried working with bootstrap some more, learning more about it 
+- doing stuff from scratch is pretty tough right now
+  
+<strong> Day 74 </strong>
+- learned again about basic html, get and post, form elements and types
+- modified the code a bit in order to be optimized
+
+<strong> Day 75 </strong>
+- break day
+
