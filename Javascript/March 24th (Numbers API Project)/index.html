@@ -13,33 +13,35 @@
 <div class="box">
     <div class="headers text-center ">
         <div class="alert alert-warning" role="alert">
-            <h1>Welcome To Numbers Trivia!</h1>
-          </div>
-          
-        <button id="start-btn" type="button" class="btn-lg btn btn-warning" onclick="{showNumbersTrivia()}">
+            <h1 id="Welcome">Welcome To Numbers Trivia!</h1>
+        </div>
+
+<!-- Start Button -->
+        <div id="StartBtnContainer">
+             <!-- Removes this after first click -->
+            <button id="start-btn" type="button" class="btn-lg btn btn-warning" onclick="{showNumbersTrivia()}">
             Press To Start </button>
-        <!-- Remove this after first click -->
+        </div>
+
     </div>
 
-    <div id="NumbersTrivia" >
-        <H1 class="text-yellow text-center">Please insert a number</H1>
-
-        <div class="d-grid gap-2">
-
+    <div id="NumbersTrivia" hidden>
+        <div>
+            <H1 class="TriviaMathText text-yellow text-center">Please insert a number</H1>
+        </div>
             <form name="Choose and submit numbers">
                 <label for="numberValue"></label>
-                <input id="numberValue" min="1" max="1000" type="number" title="Write a number here" placeholder="Choose a number"" required >
+                <input id="numberValue" min="1" max="1000" type="number" title="Write a number here" placeholder="Choose a number"" required > 
                 <button id="btnValue" type="button" class="btn-lg btn btn-warning">Submit</button>
-                <h1 id="ApiResponse">Text</h1>
             </form>
+            <h1 id="ApiResponse">Text</h1>
 
             <div class="spinner-border text-warning" role="status">
                 <span class="visually-hidden">Loading...</span>
-              </div>
-              
-        </div>
+            </div> 
     </div>
 </div>
+
     
 
 
