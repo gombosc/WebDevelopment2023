@@ -474,4 +474,13 @@ Day 4:
 - json, json.parse(), json.stringify()
 
 <strong> Day 77 </strong>
+- worked on the API, CSS and HTML mainly
+
+<strong> Day 78 </strong>
+- still working on the API, not much time to code
+- decided to create a more complex project, a page for every API selection
+
+<strong> Day 79 </strong>
+-
+
 
