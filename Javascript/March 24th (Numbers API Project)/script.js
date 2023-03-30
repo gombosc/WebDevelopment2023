@@ -14,10 +14,9 @@ function showOptions(){
 
 // Show options after main button is pressed
 function showNumbersTrivia(){
-    divTrivia.hidden = !divTrivia.hidden;
-    welcomeText = document.getElementById("Welcome").innerHTML = "Numbers Trivia"
-    /
-    startBtnContainer.remove()
+    // divTrivia.hidden = !divTrivia.hidden;
+    // welcomeText = document.getElementById("Welcome").innerHTML = "Numbers Trivia"
+    // startBtnContainer.remove()
 }
 
 async function fetchFromApi(inputValue){
