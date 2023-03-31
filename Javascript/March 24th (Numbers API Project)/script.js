@@ -8,14 +8,10 @@ const btnValue= document.getElementById("btnValue");
 const apiResponse = document.getElementById("ApiResponse")
 
 
-function showOptions(){
-
-}
-
 // Show options after main button is pressed
 function showNumbersTrivia(){
     // divTrivia.hidden = !divTrivia.hidden;
-    // welcomeText = document.getElementById("Welcome").innerHTML = "Numbers Trivia"
+    welcomeText = document.getElementById("Welcome").innerHTML = "Numbers Trivia"
     // startBtnContainer.remove()
 }
 
@@ -24,7 +20,7 @@ async function fetchFromApi(inputValue){
     const response = await fetch(`http://numbersapi.com/${inputValue}/math`);
     const data = await response.text();
     // spent way too much time figuring out this error
-    apiResponse.textContent = data;
+    apiResponse.textContent = `"${data}"`;
     console.log(data);
         }
         catch(error){
@@ -33,11 +29,28 @@ async function fetchFromApi(inputValue){
         }
     }
     
- btnValue.addEventListener("click", ()=>{
+function buttonSubmit(){
     const valueFromInput = inputValue.value;
-    fetchFromApi(valueFromInput);
-    console.log("The Input Value is: " , valueFromInput);
- })
+    if (valueFromInput.length != 0) {
+        fetchFromApi(valueFromInput);
+        console.log("The Input Value is: ", valueFromInput);
+    }
+}
+
+function inputEnter(event){
+    const valueFromInput = inputValue.value;
+    apiResponse.hidden = false;
+    if (valueFromInput.length != 0 && event.code === "Enter") {
+        fetchFromApi(valueFromInput);
+        console.log("The Input Value is: ", valueFromInput);
+    }
+}
+
+ btnValue.addEventListener("click", buttonSubmit);
+ inputValue.addEventListener("keypress", inputEnter);
+
+
+
 
 
 
