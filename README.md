@@ -481,6 +481,6 @@ Day 4:
 - decided to create a more complex project, a page for every API selection
 
 <strong> Day 79 </strong>
--
+- added the different options to the API, creeated styles, made a simple design
 
 
