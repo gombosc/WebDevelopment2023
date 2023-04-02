@@ -484,5 +484,10 @@ Day 4:
 - added the different options to the API, creeated styles, made a simple design
 
 <strong> Day 80 </strong>
-- created switch function that checks the page url in order to choose the correct API
+- created switch function that checks the page url in order to choose the correct API, doesn't work tho
 - windof.location.href
+
+<strong> Day 81 </strong>
+- pretty much finished the Numbers Trivia API, could stylized it to look better tho
+- switch statement still doesn't work even though it should, for functionality sake I've used if else statements
+- feel I'ge got a better grip now on this concepts
