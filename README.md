@@ -484,4 +484,5 @@ Day 4:
 - added the different options to the API, creeated styles, made a simple design
 
 <strong> Day 80 </strong>
-
+- created switch function that checks the page url in order to choose the correct API
+- windof.location.href
