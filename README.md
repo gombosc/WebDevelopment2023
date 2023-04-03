@@ -491,3 +491,6 @@ Day 4:
 - pretty much finished the Numbers Trivia API, could stylized it to look better tho
 - switch statement still doesn't work even though it should, for functionality sake I've used if else statements
 - feel I'ge got a better grip now on this concepts
+  
+<strong> Day 82 </strong>
+-  
