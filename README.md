@@ -481,6 +481,19 @@ Day 4:
 - decided to create a more complex project, a page for every API selection
 
 <strong> Day 79 </strong>
--
+- added the different options to the API, creeated styles, made a simple design
 
+<strong> Day 80 </strong>
+- created switch function that checks the page url in order to choose the correct API, doesn't work tho
+- windof.location.href
 
+<strong> Day 81 </strong>
+- pretty much finished the Numbers Trivia API, could stylized it to look better tho
+- switch statement still doesn't work even though it should, for functionality sake I've used if else statements
+- feel I'ge got a better grip now on this concepts
+  
+<strong> Day 82 </strong>
+-  finished API, fixed switch statement with the help of ChatGPT
+
+<strong> Day 83 </strong>
+- 
