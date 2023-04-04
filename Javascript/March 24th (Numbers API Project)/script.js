@@ -20,6 +20,7 @@ function showNumbersTrivia(){
 async function fetchFromApi(inputValue){
     const url = window.location.href;
     let response;
+    let random = Math.floor(Math.random() * 13);
     try{
         switch(true){
             case url.includes("NumbersTrivia"):
@@ -29,16 +30,16 @@ async function fetchFromApi(inputValue){
                 response = await fetch(`http://numbersapi.com/${inputValue}/math`);
                 break;
             case url.includes("Date") :
-                response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+                response = await fetch(`http://numbersapi.com/${random}/${inputValue}/date`);
                 break;
             case url.includes("Year"):
-                response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+                response = await fetch(`http://numbersapi.com/${inputValue}/year`);
                 break;
             default:
                 alert("Wrong URL it seems...")
                 console.log(url, response);
         }
-        // Both are functional but switch statements are cleaner
+        // Both are functional but switch statements is cleaner
         // if(url.includes("Numbers")){
         //     response = await fetch(`http://numbersapi.com/${inputValue}`);}
         // else if(url.includes("Math")){
