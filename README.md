@@ -493,4 +493,7 @@ Day 4:
 - feel I'ge got a better grip now on this concepts
   
 <strong> Day 82 </strong>
--  
+-  finished API, fixed switch statement with the help of ChatGPT
+
+<strong> Day 83 </strong>
+- 
