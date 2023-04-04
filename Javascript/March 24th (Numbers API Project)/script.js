@@ -8,6 +8,8 @@ const btnValue= document.getElementById("btnValue");
 const apiResponse = document.getElementById("ApiResponse")
 
 
+
+
 // Show options after main button is pressed
 function showNumbersTrivia(){
     // divTrivia.hidden = !divTrivia.hidden;
@@ -16,25 +18,52 @@ function showNumbersTrivia(){
 }
 
 async function fetchFromApi(inputValue){
+    const url = window.location.href;
+    let response;
     try{
-    const response = await fetch(`http://numbersapi.com/${inputValue}/math`);
-    const data = await response.text();
-    // spent way too much time figuring out this error
-    apiResponse.textContent = `"${data}"`;
-    console.log(data);
+        switch(true){
+            case url.includes("NumbersTrivia"):
+                response = await fetch(`http://numbersapi.com/${inputValue}`);
+                break;
+            case url.includes("Math"):
+                response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+                break;
+            case url.includes("Date") :
+                response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+                break;
+            case url.includes("Year"):
+                response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+                break;
+            default:
+                alert("Wrong URL it seems...")
+                console.log(url, response);
         }
-        catch(error){
-            console.error("Fetching Error: ", error);
-            apiResponse.textContent = "Failed Loading Text..."
+        // Both are functional but switch statements are cleaner
+        // if(url.includes("Numbers")){
+        //     response = await fetch(`http://numbersapi.com/${inputValue}`);}
+        // else if(url.includes("Math")){
+        //     response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+        // }else if(url.includes("Date")){
+        //     response = await fetch(`http://numbersapi.com/${inputValue}/math`);
+        // }
+        
+
+        const data = await response.text();
+        // spent way too much time figuring out this error
+        apiResponse.textContent = `"${data}"`;
+        console.log(data);
+            }
+            catch(error){
+                console.error("Fetching Error: ", error);
+                apiResponse.textContent = "Failed Loading Text..."
+            }
         }
-    }
     
 function buttonSubmit(){
     const valueFromInput = inputValue.value;
-    if (valueFromInput.length != 0) {
-        fetchFromApi(valueFromInput);
-        console.log("The Input Value is: ", valueFromInput);
-    }
+    // Could I do this with a switch function?
+    fetchFromApi(valueFromInput);
+
 }
 
 function inputEnter(event){
@@ -42,7 +71,6 @@ function inputEnter(event){
     apiResponse.hidden = false;
     if (valueFromInput.length != 0 && event.code === "Enter") {
         fetchFromApi(valueFromInput);
-        console.log("The Input Value is: ", valueFromInput);
     }
 }
 
@@ -50,6 +78,17 @@ function inputEnter(event){
  inputValue.addEventListener("keypress", inputEnter);
 
 
+
+//  Function created to verify if url is valid or not
+// function checkUrl(address){
+//     let currentUrl = window.location.href;
+//     console.log(currentUrl);
+//     if (currentUrl.includes(address)){
+//         console.log("Correct Address")
+//     } else{
+//         alert("Wrong Address")
+//     }
+// }
 
 
 
