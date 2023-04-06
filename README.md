@@ -494,12 +494,17 @@ Day 4:
   
 <strong> Day 82 </strong>
 -  finished API, fixed switch statement with the help of ChatGPT
+- was calling a boolean value to the expression which was a string in the statement, replaced it with switch(true)
 
 <strong> Day 83 </strong>
-- applied for my first frontend job
+- introduced date and year trivia functions to Numbers Trivia, uploaded it to Githup pages but got an error when fetching
+- mixed content error caused by fetching from an http to an https, still didn't figure how to fix it even though I've tried a couple of methods
 
 <strong> Day 84 </strong>
--
+- aplied for my first frontend job
+- started react again, redoing some javascripts concepts
   
 <strong> Day 85 </strong>
--
+- React day, state and logic behind
+- javascript again: arrow functions, ternary operators, destructuring, spread operator, promises, asynchronous functions vs synchronous, callback functions
+- last couple of days read alot on AGI and LLM, planning on attending events
