@@ -496,7 +496,7 @@ Day 4:
 -  finished API, fixed switch statement with the help of ChatGPT
 
 <strong> Day 83 </strong>
-- 
+- applied for my first frontend job
 
 <strong> Day 84 </strong>
 -
