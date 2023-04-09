@@ -511,6 +511,10 @@ Day 4:
 - also had this annoying security problem "firefox.exe attempted to establish a connection relying on an unmatching security certificate to base3-hx.diltwo.com" which popped up a lot, was unable to figure it out and reached to my Antivirus support, not really helpful. Managed to fix it by removing an addon (or tab) that was trying constantly to connect to the one mentioned above.
   
 <strong> Day 86 </strong>
+- 
 
 <strong> Day 87 </strong> 
 - went to Paris so cheat day cause no time
+
+<strong> Day 88 </strong>
+- i'll cut these weekend from the graph as I'm enjoying life a bit
