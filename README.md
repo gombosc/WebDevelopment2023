@@ -510,8 +510,8 @@ Day 4:
 - last couple of days read alot on AGI and LLM, planning on attending events
 - also had this annoying security problem "firefox.exe attempted to establish a connection relying on an unmatching security certificate to base3-hx.diltwo.com" which popped up a lot, was unable to figure it out and reached to my Antivirus support, not really helpful. Managed to fix it by removing an addon (or tab) that was trying constantly to connect to the one mentioned above.
   
-<strong> Went to Paris for almost two weeks so I took a break from coding.
-  Back at it with fresh forces! </strong>
+<h1> <strong> Went to Paris for almost two weeks so I took a break from coding.
+  Back at it with fresh forces! </strong> </h1>
 
 <strong> Day 86 </strong>
 - going over some JS concepts
