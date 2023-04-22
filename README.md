@@ -510,12 +510,22 @@ Day 4:
 - last couple of days read alot on AGI and LLM, planning on attending events
 - also had this annoying security problem "firefox.exe attempted to establish a connection relying on an unmatching security certificate to base3-hx.diltwo.com" which popped up a lot, was unable to figure it out and reached to my Antivirus support, not really helpful. Managed to fix it by removing an addon (or tab) that was trying constantly to connect to the one mentioned above.
   
-Went to Paris for almost two weeks so I took a break from coding.
-Back at it with fresh forces!
+<strong> Went to Paris for almost two weeks so I took a break from coding.
+  Back at it with fresh forces! </strong>
 
 <strong> Day 86 </strong>
+- going over some JS concepts
 - Callbacks
 - Reference vs Value (primitives and objects) 
 - Scope (Block, Function, Global, Automatically Global)
 - Hoisting (default behaviour of JS of moving all declarations to the top of the current scope)
 - Short Circuiting ( || and && ) 
+- for (variable of iterable)
+- Array.from()
+- Nullish Coalescing Operator (??)
+- The Optional Chaining Operator (?.)
+- JS MAps - new Map(), set, add, delete, get, clear
+- Map.keys (ex: apple), Map.entries(ex: apples, 500), Map.values (ex: 500)
+- JS Sets ( collection of unique values which can occur only once in a Set)
+- Function Rest Parameter (...)
+ 
