@@ -528,4 +528,9 @@ Day 4:
 - Map.keys (ex: apple), Map.entries(ex: apples, 500), Map.values (ex: 500)
 - JS Sets ( collection of unique values which can occur only once in a Set)
 - Function Rest Parameter (...)
+
+<strong> Day 87 </strong>
+- Type Coercion, Strict Equality
+- Regular Expressions (Regex)
+- React documentation (Components, States, Hooks, Events)
  
