@@ -533,4 +533,5 @@ Day 4:
 - Type Coercion, Strict Equality
 - Regular Expressions (Regex)
 - React documentation (Components, States, Hooks, Events)
+- starting React Tic-Tac-Toe 
  
