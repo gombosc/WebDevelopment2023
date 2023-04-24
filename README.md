@@ -534,4 +534,7 @@ Day 4:
 - Regular Expressions (Regex)
 - React documentation (Components, States, Hooks, Events)
 - starting React Tic-Tac-Toe 
- 
+
+<strong> Day 88 </strong>
+- setting up React Tic-Tac-Toe and progressing
+- use (<> </>) for multiple elements
