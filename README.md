@@ -538,3 +538,7 @@ Day 4:
 <strong> Day 88 </strong>
 - setting up React Tic-Tac-Toe and progressing
 - use (<> </>) for multiple elements
+
+<strong> Day 89 </strong>
+- messed up git remote origin so now need to spend time to understand what I've done a couple of weeks ago
+- React is a bit hard
