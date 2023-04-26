@@ -1,0 +1,51 @@
+// Exercise to do once more advanced
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Show user IP address example</h1>
+
+    <p>
+      In this example, you will need to fill the <code>setUserLocation</code> function. This function is called when the page loads and should output the customer IP address in the textbox below.
+    </p>
+    
+    <p>
+      You will need to call the <code>fetchCurrentIpAddress</code> method. This method makes a request to <code>ipinfo</code> API. This is an asynchronous request that returns a promise, once resolved it returns an Object (structure representing a data model) that contains the information about the user making the request.
+    </p>
+    
+    <p>
+      Here is an example of the payload that is returned by <code>ipinfo</code>:
+    </p>
+    
+    <pre>
+      <code>
+      {
+        "city": "Québec",
+        "country": "CA",
+        "hostname": "snipcart.com"
+        "ip": "192.168.1.1",
+        "loc": "49.8833,-97.1667",
+        "org": "Snipcart",
+        "region": "Quebec"
+      }
+      </code>
+    </pre>
+    
+    <h2>Current user IP address</h2>
+    
+    <div>
+      <input type="text" id="user-location" placeholder="Should contain current user IP address."/>
+    </div>
+
+
+</body>
+</html>
+
