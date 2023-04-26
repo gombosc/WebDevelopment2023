@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body class="times">
+    <h1 class="f1 tc bg-yellow ">Testing Promise and Async</h1>
+    <div class="tc" id="Wrapper">
+    <button class="w-20 bw2 b--yellow bg-gold grow h2 times br3"
+    type="button" 
+    id="btn" 
+    onclick="{getData()}">
+    Show API Data
+    </button>
+        <h2 class="f1" id="users"></h2>
+        <h2 class="f3" id="posts"></h2>
+        <h2 class="f3" id="comments">  </h2>
+    </div>
+    
+
+    <script src="promise.js"></script>
+</body>
+</html>

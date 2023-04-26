@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <title>Date Trivia</title>
+</head>
+
+<body>
+    <style>
+        body{
+            margin: auto;
+            background-color: #ffffff;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23000000' fill-opacity='0.17'%3E%3Cpath opacity='.3' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            }
+
+            #Header{
+                background: #ffb347; /* fallback for old browsers */
+                background: -webkit-linear-gradient(to top, #ffb347, #ffcc33); /* Chrome 10-25, Safari 5.1-6 */
+                background: linear-gradient(to top, #ffb347, #ffcc33)
+            }
+
+        .StartBtnContainer{
+            margin: auto;
+            padding-top: 165px;
+        }
+    
+        #numberValue{
+            width: 300px;
+            height: 40px;
+            box-shadow: 0 1px 120px 80px gold;
+            text-align: center;
+            border-radius: 50px;
+        }
+
+        #btnValue{
+            margin-top: 25px;
+            width: 200px;
+            border-radius: 25px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        #backButton{
+            width: 120px;
+            border-radius: 25px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .response{
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-top: 35px;
+            font-size: large;
+        }
+
+        #btnValue:hover, #backButton:hover{    
+            transform: scale(1.1);
+        }
+
+        #backButton{
+            margin-left: 0.5em;
+        }
+        
+        #ApiResponse{
+            border: 3px solid #ffb347;;
+            padding: 0.5em;
+            border-radius: 35px;
+            font-size: 2em;
+            background: #ffb347; /* fallback for old browsers */
+            background: -webkit-linear-gradient(to top, #ffb347, #ffcc33); /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to top, #ffb347, #ffcc33)
+        }
+
+    </style>
+
+    <div id="Header" class="alert alert-warning text-center" role="alert">
+        <h1 id="Welcome">Numbers Trivia</h1>
+    </div>
+
+    <a href="optionsPage.html">
+        <button id="backButton" class="btn-lg btn btn-warning">Back</button>
+    </a>
+
+    <div class="StartBtnContainer d-flex flex-column justify-content-around align-items-center">
+        <label for="numberValue"></label>
+        <input id="numberValue" min="1" max="1000" type="number" title="Write a number here" placeholder="Choose a number" required>
+
+        <button id="btnValue" type="button" class="btn-lg btn btn-warning">Submit</button>
+
+        <div class = "response text-center">
+            <h3 id="ApiResponse" hidden></h1>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

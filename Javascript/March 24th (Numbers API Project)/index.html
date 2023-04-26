@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Numbers API</title>
+</head>
+
+<body>
+<div class="box">
+    <div class="headers text-center ">
+        <div class="welcomeDiv alert alert-warning" role="alert">
+            <h1 id="Welcome">Welcome To Numbers Trivia!</h1>
+        </div>
+
+<!-- Start Button -->
+        <div id="StartBtnContainer">
+             <!-- Removes this after first click -->
+             <a href="optionsPage.html">
+            <button id="start-btn" type="button" class="btn-lg btn btn-warning">
+             Press To Start  </button> </a>
+        </div>
+
+    </div>
+
+    <div id="NumbersTrivia" hidden>
+        <div>
+            <H1 class="TriviaMathText text-yellow text-center">Please insert a number</H1>
+        </div>
+            <form name="Choose and submit numbers">
+                <label for="numberValue"></label>
+                <input id="numberValue" min="1" max="1000" type="number" title="Write a number here" placeholder="Choose a number"" required > 
+                <button id="btnValue" type="button" class="btn-lg btn btn-warning">Submit</button>
+            </form>
+            <h1 id="ApiResponse">Text</h1>
+
+            <div class="spinner-border text-warning" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div> 
+    </div>
+</div>
+
+    
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
