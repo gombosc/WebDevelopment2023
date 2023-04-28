@@ -560,3 +560,5 @@ Day 4:
 - Hooks: useRef, useEffect (repeat these)
 - npm package: uuidv4 (random assignment of an id value)
 - portfolio research and video regarding first job as a web developer
+
+<strong> Day 92 </strong>
