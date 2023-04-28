@@ -541,10 +541,22 @@ Day 4:
 
 <strong> Day 89 </strong>
 - messed up git remote origin so now need to spend time to understand what I've done a couple of weeks ago
-- React is a bit hard
+- React is a bit hard, I admit
+- React Developer Tools
+- Lifting state up
+- Array(), Array.fill(), Array.slice()
+- Jacascript Closure (an inner function has access to variables and functions defined in an outer function)
 
 <strong> Day 90 </strong>
--
+- Fixing Git and NPM Error, almost deleted my enitre web dev repo while trying to fix it (lost robofriends document while trying to fix...)
+- still can't git pull, need to fix
+- React props( use onSomething names for props which represent events and handleSomething for the function)
+- Immutability (In React while working with state and props)
+- Pure Functions
+- almost finished Tic-Tac-Toe, need to implement time travel
 
 <strong> Day 91 </strong>
--
+- watched a video about React to repeat what I've learnt till far (To do list using Hooks)
+- Hooks: useRef, useEffect (repeat these)
+- npm package: uuidv4 (random assignment of an id value)
+- portfolio research and video regarding first job as a web developer
