@@ -562,3 +562,6 @@ Day 4:
 - portfolio research and video regarding first job as a web developer
 
 <strong> Day 92 </strong>
+
+<strong> Day 93 </strong>
+- cleaning day
