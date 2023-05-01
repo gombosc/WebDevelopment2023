@@ -564,5 +564,8 @@ Day 4:
 <strong> Day 92 </strong>
 - continuing React
 
+<strong> Haven't coded during this weekend </strong>
+
 <strong> Day 93 </strong>
-- cleaning day
+- finished Tic-Tac-Toe App
+- don't fully understand the time travelling function yet
