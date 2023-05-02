@@ -569,3 +569,8 @@ Day 4:
 <strong> Day 93 </strong>
 - finished Tic-Tac-Toe App
 - don't fully understand the time travelling function yet
+
+<strong> Day 94 </strong>
+- git still not functioning
+- spent 3 hours on going over the React Tic-Tac-Toe again, stronger understanding of components, states, props and hooks
+- time travelling still not fully understood
