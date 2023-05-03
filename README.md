@@ -574,3 +574,6 @@ Day 4:
 - git still not functioning
 - spent 3 hours on going over the React Tic-Tac-Toe again, stronger understanding of components, states, props and hooks
 - time travelling still not fully understood
+
+<strong> Day 95 </strong>
+- covered time function and understood it better, took some time
