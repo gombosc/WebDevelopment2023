@@ -577,3 +577,7 @@ Day 4:
 
 <strong> Day 95 </strong>
 - covered time function and understood it better, took some time
+
+<strong> Day 96 </strong>
+- thinking in React, spending more time learning 
+- revising notes and repeating what I've learned
