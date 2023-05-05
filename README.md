@@ -581,3 +581,7 @@ Day 4:
 <strong> Day 96 </strong>
 - thinking in React, spending more time learning 
 - revising notes and repeating what I've learned
+
+<strong> Day 97 </strong>
+- Continuing with Thinking in React, doing the ProductsTable exercise 
+- haven't done tables in a time: <tr>, <th>, <td>, coslpan, rowspan, <thead> <tbody> <tfoot> (used to group elements in an HTML table)
