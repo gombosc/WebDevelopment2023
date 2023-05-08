@@ -587,3 +587,6 @@ Day 4:
 - haven't done tables in a time: <tr>, <th>, <td>, coslpan, rowspan, <thead> <tbody> <tfoot> (used to group elements in an HTML table)
 
 <strong> Break during the weekend, had friends over from home </strong>
+  
+<strong> Day 98 </strong>
+  -
