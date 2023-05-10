@@ -592,3 +592,6 @@ Day 4:
   -
 <strong> Day 99 </strong>
 -  
+
+<strong> Day 100 </strong>
+- Github Day, spent most of the time relearning how Git works as I have some issues with a repository
