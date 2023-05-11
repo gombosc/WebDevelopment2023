@@ -589,9 +589,18 @@ Day 4:
 <strong> Break during the weekend, had friends over from home </strong>
   
 <strong> Day 98 </strong>
-  -
+  - Continuing with Thinking in React
+  - One-way Data Flow (Data flows down from the top level component to the ones at the bottom of the tree)
+  - Steps for building a React App:
+  1. Break the UI into a Components Hierarchy
+  2. Build a static version in React
+  3. Find the minimal but complete representation of UI State (don't create state where not needed)
+  4. Identify where your state should live
+  - indexOf (return the position of the first occurence of a value in a string, return -1 if value not found)
+  
 <strong> Day 99 </strong>
--  
+-  Finished Thinking in React, completed Shopping List App
 
-<strong> Day 100 </strong>
+<strong> Day 100 (May 10th) </strong>
 - Github Day, spent most of the time relearning how Git works as I have some issues with a repository
+- need to revisit the terminal commands
