@@ -602,5 +602,23 @@ Day 4:
 -  Finished Thinking in React, completed Shopping List App
 
 <strong> Day 100 (May 10th) </strong>
+- I don't feel that happy with my progress until now, been caught up with the bachelor thesis then with moving in to a new city, starting a new Master and so on. It could be better, need to try and do more
 - Github Day, spent most of the time relearning how Git works as I have some issues with a repository
 - need to revisit the terminal commands
+
+<strong> Day 101 </strong>
+- Github day again, I finally feel like I understand it better now (fixed the Repo problems I've had)
+- encountered: "Main and Master are entirely differnt commit histories", managed to solve it for all my repo's and understand why it was happening in the first place. The problem was with the master branch that I was working on and then commiting to the main one active on Github. 
+- solved the issue by:
+  git checkout master
+  git branch main master -f
+  git checkout main
+  git push origin main -f
+- found another solution too which I believe is better:
+  git branch -m master main (move the branch locally)
+  git push -u origin main ( -u represents the shortcut for --set-upstream which sets the new branch as the local default)
+  git remote set-head origin main (ensures the local HEAD points to the new branch)
+- started with Command Line again
+- systeminfo, ping, netstat, ipconfig, tasklist, endtask, clip
+- echo, dir, ren, del, mkdir, copy, move, /?, cd, subfolders
+ 
