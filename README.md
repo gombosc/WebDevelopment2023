@@ -621,4 +621,6 @@ Day 4:
 - started with Command Line again
 - systeminfo, ping, netstat, ipconfig, tasklist, endtask, clip
 - echo, dir, ren, del, mkdir, copy, move, /?, cd, subfolders
+  
+<strong> Day 102 </strong>
  
