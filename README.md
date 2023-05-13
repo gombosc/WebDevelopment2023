@@ -623,4 +623,17 @@ Day 4:
 - echo, dir, ren, del, mkdir, copy, move, /?, cd, subfolders
   
 <strong> Day 102 </strong>
+- revising notes, small recap
+- going back to main course from Andrei
+- starting Robofriends app again to test my React knowledge
+
+<strong> Day 103 </strong>
+- url components: scheme, domain, port, path, paramaters, bookmark
+- absolute and relative url
+- tachyons (npm install package)
+- StrictMode 
+- Note to myself: watch for {} vs [], spent 45 minutes finding this error which caused the code to stop
+- Another note: name your files properly, spent one hour figuring out why code doesn't work, tried everything just to realize I wasn't working in a JS file...
+- continued with Robofriends, all done till the Search function, need to implement the rest and customize a bit
+
  
