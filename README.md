@@ -636,4 +636,6 @@ Day 4:
 - Another note: name your files properly, spent one hour figuring out why code doesn't work, tried everything just to realize I wasn't working in a JS file...
 - continued with Robofriends, all done till the Search function, need to implement the rest and customize a bit
 
+  <strong> Day 104 </strong>
+  -
  
