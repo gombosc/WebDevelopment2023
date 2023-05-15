@@ -636,6 +636,18 @@ Day 4:
 - Another note: name your files properly, spent one hour figuring out why code doesn't work, tried everything just to realize I wasn't working in a JS file...
 - continued with Robofriends, all done till the Search function, need to implement the rest and customize a bit
 
-  <strong> Day 104 </strong>
-  -
+<strong> Day 104 </strong>
+  - continued with Robofriends
+  - switched from class components to function components
+
+<strong> Day 105 </strong>
+- created app using functions instead of classes 
+- created 2 useState for searchField and robots
+- created two options to complete the search, one through useEffect and one directly through the onSearchChange function 
+- created components and container folder
+- updated security issues
+- finished project, better understanding of React
+- useEffect(setup, dependencies) this runs every time the page renders
+- side effects in React, mounting and the methods called which are depreciated now
+- defining state in class Components is equivalent to calling useState in function components
  
