@@ -650,4 +650,10 @@ Day 4:
 - useEffect(setup, dependencies) this runs every time the page renders
 - side effects in React, mounting and the methods called which are depreciated now
 - defining state in class Components is equivalent to calling useState in function components
+  
+<strong> Day 106 <strong/>
+- Error Boundary in React
+- React deployment to Git
+- finished React section (again), starting Face-Recognition App
+- Main Components: Navigation, Logo, imageLinkFrom, FaceRecognition
  
