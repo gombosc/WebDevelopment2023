@@ -657,3 +657,7 @@ Day 4:
 - finished React section (again), starting Face-Recognition App
 - Main Components: Navigation, Logo, imageLinkFrom, FaceRecognition
  
+<strong> Took a break to focus on University. Starting another 100 days challenge </strong>
+  
+  <strong> Day 1 </strong>
+  -
