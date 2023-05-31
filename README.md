@@ -660,4 +660,9 @@ Day 4:
 <strong> Took a break to focus on University. Starting another 100 days challenge </strong>
   
   <strong> Day 1 </strong>
-  -
+  - setting the facial recognition app, creating components
+  
+  <strong> Day 2 </strong>
+  - finally a productive coding day
+  - continuing with the project, clarifai and api work, kind of hard for now
+  
