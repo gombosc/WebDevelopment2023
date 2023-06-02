@@ -666,3 +666,6 @@ Day 4:
   - finally a productive coding day
   - continuing with the project, clarifai and api work, kind of hard for now
   
+  <strong> Day 3 </strong>
+  - continuing "Add stuff here"
+  
