@@ -669,3 +669,7 @@ Day 4:
   <strong> Day 3 </strong>
   - continuing "Add stuff here"
   
+  <strong> Starting again cause I've been back home for the first time in three months </strong>
+  
+  <strong> Day 1 </strong>
+  
