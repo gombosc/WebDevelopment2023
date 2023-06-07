@@ -4,6 +4,7 @@ const loader = document.getElementById('loader');
 
 // API variables
 let count = 5;
+let count2 = 4;
 const ApiKey ='V5LjVvG9xOFlPJYsoAgXv5qUpdSrlVXWugfe8sVHXew';
 const SecretKey ='p18wvgwrjqhPwHJhjTNBBNxH-f3Jboht7KWHwq2GKvk'
 let apiUrl = `https://api.unsplash.com/photos/random/?client_id=${ApiKey}&count=${count}`
