@@ -676,3 +676,4 @@ Day 4:
   
   <strong> Day 2 </strong>
   - add notes from notebook, struggling wiht this project
+  -
