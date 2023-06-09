@@ -677,3 +677,9 @@ Day 4:
   <strong> Day 2 </strong>
   - add notes from notebook, struggling wiht this project
   -
+  
+  <strong> Day 3 </strong>
+  - update from tree
+  
+  <strong> Day 4 </strong>
+  -
