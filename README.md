@@ -686,3 +686,5 @@ Day 4:
   
   <strong> Day 5 </strong>
   -
+  
+  <strong> Day 6 </strong>
