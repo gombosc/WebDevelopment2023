@@ -694,5 +694,8 @@ Day 4:
   - played with Postman a bit, had some errors with the server side till I realized I need to restart the server after making changes (installed nodemon package after that conclusion)
   - "?" represents the query paramater in the URL and "&" (keep forgetting these ones)
   - app.use(express.static('path')), encountered GET Error, error which took 20 minutes just to realize I'm not having the file in the same directory)
-  - Node File System Module  (require('fs'))
+  - Node File System Module  (require('fs')
   - 
+
+  <strong> Day 8 </stron>
+- optimized code for first problem, solved the second question
