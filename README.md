@@ -697,5 +697,8 @@ Day 4:
   - Node File System Module  (require('fs')
   - 
 
+  <strong> Day 8 </strong>
+- server side and connecting front end part with backend
+
   <strong> Day 8 </stron>
 - optimized code for first problem, solved the second question
