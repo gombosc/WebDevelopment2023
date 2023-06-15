@@ -661,44 +661,95 @@ Day 4:
   
   <strong> Day 1 </strong>
   - setting the facial recognition app, creating components
+  - Components for now: Navigation, Logo, ImageLinkFrom, FaceRecognition
   
   <strong> Day 2 </strong>
   - finally a productive coding day
-  - continuing with the project, clarifai and api work, kind of hard for now
+  - continuing with the project, clarifai and api work, a bit hard
   
   <strong> Day 3 </strong>
-  - continuing "Add stuff here"
+  - clarifai 
+  - react tilt, react particles
+  - 4 main requests type (guess which ones)
+  - gRPC (remote procedure call framework)
+  - ways to acces api (js npm package, fetch, grpc npm package) 
   
   <strong> Starting again cause I've been back home for the first time in three months </strong>
   
   <strong> Day 1 </strong>
-  -
-  
+  - managed to find and fetch the bounding box info
+  - tried to fix background error but no succes, will come back later
+  - took the bounding box values and created 2 functions to calculate the detection box
+  - calculateRecognitionBox() - takes the resp output, grabs the image width and height then calc in a return the left right top bottom values for the bounding box in the image
+  - dispayFaceBox = (boxResponse), takes the resp value from the return in the funct above then sets val for the recognitionBox
+  - struggled to navigate new Clarifai interface
+  - using destructuring method for useState instead of class
+
   <strong> Day 2 </strong>
-  - add notes from notebook, struggling wiht this project
-  -
+  - forgot to add notes from notebook, struggling a bit with the project
   
   <strong> Day 3 </strong>
-  - update from tree
+  - made the face recognition app detect faces, works with images and creates a square around faces on them
+  - created SignIn and Register pages
+  - created Route state which verifies current component to show
+  - fixed some annoying html problems
+  - global, process.exit, global.fetch()
+  - finished front end part
   
-  <strong> Day 4 </strong>
-  -
+  <strong> Day 4 (June 9) </strong>
+  - starting with node.js (built on top of Chrome V8 JS engine)
+  - runs in a single process, without creating a new thread for every request
+  - conts http = require('http')
+  - npm i package --save-dev or --no-save or --save-optional
+  - Typescript, basically a superset of JS(static type definition)
+  - features of Node (async and event driven, which means non-blocking, very fast, single threaded but highly scalable)
+  - REPL terminal (Read Eval Prin Loop)
+  - npm ls -g (list all modules installed globally)
+  - callback (async equivalent for a function called at the completion of a given task)
+  - Blocking and non blocking calls
+  - Node Event Loop (event driven programming) - works on the observer pattern (require('events')
+  - RESTful API (representational state transfer) - web based standard arhitecture and uses Http protocol, __dirname
+  - globalThis ( window = global in Node)
+  - Top Level Await
+  - types of modules
+  - express, next.js, gatsby (state of js website)
   
   <strong> Day 5 </strong>
-  -
+  - node.js and express, express middleware
+  - app.use()
+  - postman for the first time, body-parser
   
-  <strong> Day 6 </strong>
+  <strong> Day 6 (11th of June) </strong>
+  - continuing with server side, haven't taken notes
 
   <strong> Day 7 </strong>
   - RESTful API (req.query, req.body, req.headers, req.params)
   - played with Postman a bit, had some errors with the server side till I realized I need to restart the server after making changes (installed nodemon package after that conclusion)
   - "?" represents the query paramater in the URL and "&" (keep forgetting these ones)
   - app.use(express.static('path')), encountered GET Error, error which took 20 minutes just to realize I'm not having the file in the same directory)
-  - Node File System Module  (require('fs')
-  - 
+  - Node File System Module  (require('fs')), fs.readFile('path', (err, data) =>{}
+  - fs.readFileSync('path') - sync
+  - fs.appendFile(), fs.writeFile(), fs.unlink()
+  - console.time(""), console.timeEnd("")
+  - article on how to think as a programmer
 
   <strong> Day 8 </strong>
 - server side and connecting front end part with backend
+- solved question to from Advent of Coding
+- string to array methods: string.split(''), [...string], array.from(string), object.assign([], string)
+- conditional ternary operator recap
+- array.reduce
+- spent some time solving the second question, did different methods and optimized code
 
-  <strong> Day 8 </stron>
+  <strong> Day 9 (14th of June) </strong>
 - optimized code for first problem, solved the second question
+- array.some() , tests wether at least one element in the array passes the test implemented by the provided function
+- in most programming languages arrays and strings are zero indexed (starts at index 0, had an error cause I forgot this)
+- Next.js introduction, open source React-based front-end framework, npx create-next-app@latest
+- dependencies installed with next launch: next, react, react-dom, typescript optional
+- useRouter: React Hook
+- setting up server side (API testing with Postman): res.json() instead of res.send(), new Date()
+- created get, post and put requests which will be applied to the recognition app
+- params: app.get('/profile/:id', (req, res) =>{const {id} = req.params}
+- bcrypt-node.js package installed for password hashing
+- read article on password security: hashing package most used - argon2, scrypt, bcrypt
