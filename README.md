@@ -762,4 +762,17 @@ Day 4:
 - 
 
 <strong> Day 11 </strong> 
-- insert notes here
+- yet again another Json.parse error, this time for the SignUp page (spent some time figuring it out)
+- connecting components and figuring out request part
+- done with signup and register pages post(/signup and /register)
+
+<strong> Day 12 </strong>
+- finished 'put(/image')
+- object.assign(target, ...sources ) 
+- chose to use updateUser({...userData, entries: count}) instead with assign method
+- done connecting front part with server requests, need to do database
+- connected rank with user id, name and entires and keepin track of number of image searches
+- made login search if user id exists when logging in and then moving to app page
+- learnt about state objects more, treat them immutable, as read only, use spread operator when modifying parts of it, replace instead of mutating
+- solved an error: unable to get / put requests because in server side was declaring id as req.params instead of body ( {id} = req.params instead of req.body)
+- starting database part
