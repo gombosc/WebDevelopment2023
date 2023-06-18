@@ -776,3 +776,6 @@ Day 4:
 - learnt about state objects more, treat them immutable, as read only, use spread operator when modifying parts of it, replace instead of mutating
 - solved an error: unable to get / put requests because in server side was declaring id as req.params instead of body ( {id} = req.params instead of req.body)
 - starting database part
+- 
+<strong> Day 13 </strong>
+- slow Postgresql day
