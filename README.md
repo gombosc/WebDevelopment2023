@@ -790,3 +790,4 @@ Day 4:
 - Relational vs Non Relational DB reading
 - psql, connecting server to Database through Knex.js package
 - INSERT INTO, ALTER TABLE, SET, WHERE, UPDATE, Conditional Operators: Like, Order By, AVG, SUM, COUNT, Joining Tables (Primary keys), ON, DELETE FROM, DROP TABLE
+-
