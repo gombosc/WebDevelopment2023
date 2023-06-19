@@ -778,4 +778,15 @@ Day 4:
 - starting database part
 - 
 <strong> Day 13 </strong>
-- slow Postgresql day
+- managed to make postgres work on my local system (added in ENV Variables path of directory postgres)
+- create database name, create table name, \dt, \q, select * from, insert into
+- using PgAdim and Beekeper as GUI
+- slow day
+
+  
+<strong> Day 14 </strong>
+- finished SQL part
+- connected register to database, it now adds the user in Postgres
+- Relational vs Non Relational DB reading
+- psql, connecting server to Database through Knex.js package
+- INSERT INTO, ALTER TABLE, SET, WHERE, UPDATE, Conditional Operators: Like, Order By, AVG, SUM, COUNT, Joining Tables (Primary keys), ON, DELETE FROM, DROP TABLE
