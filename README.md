@@ -790,4 +790,15 @@ Day 4:
 - Relational vs Non Relational DB reading
 - psql, connecting server to Database through Knex.js package
 - INSERT INTO, ALTER TABLE, SET, WHERE, UPDATE, Conditional Operators: Like, Order By, AVG, SUM, COUNT, Joining Tables (Primary keys), ON, DELETE FROM, DROP TABLE
+  
+<strong> Day 15 </strong>
+- finished with backend side, connected all ports to the server
+- website is now functional with the database, logIn, Register and App work
+- need to review code and fix bugs (including background error when image added)
+- moving on to deploy section
+- increment(name, amount),
+- Transactions - allow correct recovery failures and keeps db consistent in case of system failure, useful when having more than 2 actions to complete
+- knex.transactions(trx) , .then(trx commit), .catch(trx.rollback) -- this will return a rejected Promise
+- encountered an error in the SignIn page, apparently was calling an inexistent database (these mispelling errors are the worst)
+
 -
