@@ -759,7 +759,7 @@ Day 4:
 - after that I encountered a CORS error for some reason, restarted both server and it worked but another error appeared out of the wild
 - Error on which I spent too much time: Json.parse: unexpected character at line 1 column 1 of the JSON data (I know this usually means the json is empty)
 - after research and way too much time I figured out that I was fetching the request from the recognition server instead of the express one (port 3001 instead of 3000) - just wonderful, almost threw my lapop away
-- 
+
 
 <strong> Day 11 </strong> 
 - yet again another Json.parse error, this time for the SignUp page (spent some time figuring it out)
@@ -801,4 +801,5 @@ Day 4:
 - knex.transactions(trx) , .then(trx commit), .catch(trx.rollback) -- this will return a rejected Promise
 - encountered an error in the SignIn page, apparently was calling an inexistent database (these mispelling errors are the worst)
 
--
+<strong> Day 16 </strong>
+- 
