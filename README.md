@@ -803,3 +803,16 @@ Day 4:
 
 <strong> Day 16 </strong>
 - 
+
+<strong> Day 17 </strong> 
+- Deploying on Heroku (this is going to be fun)
+- AWS, Digital Ocean, Engine Yard, Microsoft Azure
+- heroku create, open, git push heroku, heroku logs --tail, heroku addons, heroku pg:psql, heroku config
+- process.env.PORT
+- NPM Serve
+- registered for Github Students Pack (would have loved to know about this earlier, lots of free subscriptions and resources)
+- Fetch API is promised based compared to XMLHttpRequest which is callback based API
+- CORS Erros
+- finished watching deployment section, need to do the actual work, waiting on registration from Github for free access
+- went back to look over code, another Json.parse error when inserting image, no clue from where it's coming tho (trying to debugg)
+- fixed the route bug, need to fix the lasting image bug too
