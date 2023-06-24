@@ -825,3 +825,6 @@ Day 4:
 > fixed input image size by creating a image-container class in CSS, ChatGPT helped
 > to do left: modify app logo, take another look at the design, fix background not covering full screen after image insertion
 > final part: deployment on Heroku or Digital Ocean, AWS would be good practice for the real industry work tho"
+
+<strong> Day 19 </strong>
+>
