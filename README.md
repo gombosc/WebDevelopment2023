@@ -827,4 +827,13 @@ Day 4:
 > final part: deployment on Heroku or Digital Ocean, AWS would be good practice for the real industry work tho"
 
 <strong> Day 19 </strong>
->
+> played around with the overall design of the app
+> decided to add Power Mode Input package to the forms, still needs implementing
+> a bit of CSS recap
+> fixed background bug not covering entire page after image insertion (becoming scrollable) - spent two hours and a half on it, tried everything, read articles, tried chatgpt, read documentation but no avail
+> discovered in the documentation that in order to be able to modify the particles styles (was trying to do it by linking CSS through the class name) I need to add the desired changes in the bg={} property, which i've set initially to bg={true}. Set position to fixed, top and left to 0 and now everything works fine, finally (it was very annoying) 
+
+<strong> Day 19 </strong>
+> created error messages for SignIn and Register Pages if forms are empty or incorrect
+> got validated for GITHUB Student Dev Pack
+> finals week so not much free time
