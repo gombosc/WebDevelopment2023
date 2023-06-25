@@ -802,20 +802,42 @@ Day 4:
 - encountered an error in the SignIn page, apparently was calling an inexistent database (these mispelling errors are the worst)
 
 <strong> Day 16 </strong>
-- 
+> transactions and postgres 
+
+> trx and callbacks
+
+> fixed error with trx, was calling the wrong table
+
+> Dependency Injection (DI) = dependency is passed using the parameters instead of instantiating it with function or class
+ 
+> classes exercises
+ 
+> Reviewing code time, gRPC vs REST (google remote procedure call)
+
+> environmental variables 
 
 <strong> Day 17 </strong> 
-- Deploying on Heroku (this is going to be fun)
-- AWS, Digital Ocean, Engine Yard, Microsoft Azure
-- heroku create, open, git push heroku, heroku logs --tail, heroku addons, heroku pg:psql, heroku config
-- process.env.PORT
-- NPM Serve
-- registered for Github Students Pack (would have loved to know about this earlier, lots of free subscriptions and resources)
-- Fetch API is promised based compared to XMLHttpRequest which is callback based API
-- CORS Erros
-- finished watching deployment section, need to do the actual work, waiting on registration from Github for free access
-- went back to look over code, another Json.parse error when inserting image, no clue from where it's coming tho (trying to debugg)
-- fixed the route bug, need to fix the lasting image bug too
+> Deploying on Heroku (this is going to be fun)
+
+> AWS, Digital Ocean, Engine Yard, Microsoft Azure
+
+> heroku create, open, git push heroku, heroku logs --tail, heroku addons, heroku pg:psql, heroku config
+
+> process.env.PORT
+
+>  NPM Serve
+
+> registered for Github Students Pack (would have loved to know about this earlier, lots of free subscriptions and resources)
+
+> Fetch API is promised based compared to XMLHttpRequest which is callback based API
+
+> CORS Erros
+
+> finished watching deployment section, need to do the actual work, waiting on registration from Github for free access
+
+> went back to look over code, another Json.parse error when inserting image, no clue from where it's coming tho (trying to debugg)
+
+> fixed the route bug, need to fix the lasting image bug too
 
 <strong> Day 18 </strong>
 > Fixed the Json.parse error (db not declared), apparently I didn't added it to the parameters
@@ -834,12 +856,18 @@ Day 4:
 
 <strong> Day 19 </strong>
 > played around with the overall design of the app
+
 > decided to add Power Mode Input package to the forms, still needs implementing
+
 > a bit of CSS recap
+
 > fixed background bug not covering entire page after image insertion (becoming scrollable) - spent two hours and a half on it, tried everything, read articles, tried chatgpt, read documentation but no avail
+
 > discovered in the documentation that in order to be able to modify the particles styles (was trying to do it by linking CSS through the class name) I need to add the desired changes in the bg={} property, which i've set initially to bg={true}. Set position to fixed, top and left to 0 and now everything works fine, finally (it was very annoying) 
 
-<strong> Day 19 </strong>
+<strong> Day 20 </strong>
 > created error messages for SignIn and Register Pages if forms are empty or incorrect
+
 > got validated for GITHUB Student Dev Pack
+
 > finals week so not much free time
