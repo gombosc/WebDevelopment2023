@@ -819,11 +819,17 @@ Day 4:
 
 <strong> Day 18 </strong>
 > Fixed the Json.parse error (db not declared), apparently I didn't added it to the parameters
+
 > Solved image bug appearing after sign out, changed the state to empty for Image and Recognition Box in the onChangeRoute function, after isSignedIn becomes false
+
 > Added Sign In and Register navigation options in the top row depending on which page the user is (ex: main app only displays Sign Out, signIn page displays only register above and Register displays Sign In)
+
 > added a route as a prop to the navigation component in order to check which page user is on and to display the right nav option
+
 > fixed input image size by creating a image-container class in CSS, ChatGPT helped
+
 > to do left: modify app logo, take another look at the design, fix background not covering full screen after image insertion
+
 > final part: deployment on Heroku or Digital Ocean, AWS would be good practice for the real industry work tho"
 
 <strong> Day 19 </strong>
