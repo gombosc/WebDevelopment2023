@@ -871,3 +871,15 @@ Day 4:
 > got validated for GITHUB Student Dev Pack
 
 > finals week so not much free time
+
+<strong> Day 21 </strong>
+> chose another backgroud color
+
+> created enter event that calls the login / register function with the help of the useEffect Hook and a eventListener that waits for the enter key to be pressed then call the onLoginSubmit function
+
+> had a small bug where the enter would only be called once, figured out I had to remove the dependency from the useEffect so that it's called on each page render
+
+> updated logo design, added new image, shadow, color, and border
+
+> moving on to add the Power Input Package
+
