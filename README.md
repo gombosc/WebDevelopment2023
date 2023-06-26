@@ -883,3 +883,5 @@ Day 4:
 
 > moving on to add the Power Input Package
 
+> added Power Input package, input now has particles sparking while typing
+
