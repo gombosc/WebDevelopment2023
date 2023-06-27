@@ -885,3 +885,6 @@ Day 4:
 
 > added Power Input package, input now has particles sparking while typing
 
+<strong> Day 21 </strong> 
+- add notes
+
