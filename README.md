@@ -889,4 +889,5 @@ Day 4:
 - add notes
 - 
 <strong> Day 22 </strong>
-
+- a bit of redux 
+> interview articles and how to prepare
