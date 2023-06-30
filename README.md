@@ -886,11 +886,50 @@ Day 4:
 > added Power Input package, input now has particles sparking while typing
 
 <strong> Day 21 </strong> 
-- add notes
-- 
+> tachyons reading
+
+> added colors to the image form input
+
+> PaaS = Platform as a Service
+
+> Bootstrap Studio, short intro, 
+
+> Github Pages
+
+> Source Map = allows you to access your code in the production environment, which makes debugging easier
+
+> finished Hook Section, it would have been better perhaps to have it before the final app project
+
+> realized that useState is a hook, wow...
+
+  
 <strong> Day 22 </strong>
-- a bit of redux 
+> a bit of redux
+
 > interview articles and how to prepare
->
+
+ 
 <strong> Day 23 </strong>
--
+> Redux - JS library used to manage application state
+
+> React uses Redux for building the interface
+
+> helps apps to scale
+
+> inspired by Flux
+
+> Why use it? It encouragews good React arhitecture, the official UI bindings for React application, many performance optimization internally
+
+> State - UI - Actions - Reducer - Store - State
+
+> Predictable State mg : Single Source of Truth , State is read only, Changes using pure functions
+
+> MVC, Redux Toolkit
+
+> Docker short intro
+
+> Back to deployment, got Heroku credits
+
+> have to solve api being on the frontend instead of backend
+
+
