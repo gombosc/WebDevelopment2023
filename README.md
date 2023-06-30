@@ -937,4 +937,6 @@ Day 4:
    
 > used gRPC in order to make the request to Clarifai (encountered many errors along the way, as usual)
 
+> added a new fetch in main App onButtonClick (app.post('/imageURL'{}) server side), added function in the image controller folder to handle request
+
 
