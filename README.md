@@ -932,4 +932,9 @@ Day 4:
 
 > have to solve api being on the frontend instead of backend
 
+<strong> Day 24 </strong>
+> moved the ClarifaiAPi handle function to the backside  
+   
+> used gRPC in order to make the request to Clarifai (encountered many errors along the way, as usual)
+
 
