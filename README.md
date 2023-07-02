@@ -942,4 +942,21 @@ Day 4:
 <strong> Day 25 </strong> 
 -
 
+<strong> Day 26 </strong>
+> solved express issue after trying different solutions, removed it from devDependencies
+
+> solved port is undefined error, defined const PORT = process.env.PORT || 3000
+
+> created postgres DB, another error, self signed certificate (modified ssl=secure sockets layer)
+
+> changed database name in server cause it was trying to access the previous local db
+
+> added new urls to the fetch functions for the heroku server, solved error
+
+> added user name from the database above the logo in the app cause it looks nice
+                               
+> connected heroku with app and everything works for now
+
+> good day
+
 
