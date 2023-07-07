@@ -968,3 +968,13 @@ Day 4:
 
 <strong< Day 30 </strong>
 
+<strong> Day 31 </strong> 
+- Arrays strenghts and weaknesses (fast lookups, fast appends vs fixed size, costly inserts and deletes)
+- worst case for arrays
+- inserting and deleting bigO logic (prepending is O(n)N time)
+- array slicing 
+-in-place algorithms (modifies data structures or objects outside of its own stack frame), sometimes called destructive
+- call stack (made up of stack frames), what stack frames usually stores
+- consider the depth of the call stack when analyzing space complexity
+- careful with recursive functions (they build huge call stacks)
+- might be burning out, long months
