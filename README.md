@@ -978,3 +978,10 @@ Day 4:
 - consider the depth of the call stack when analyzing space complexity
 - careful with recursive functions (they build huge call stacks)
 - might be burning out, long months
+
+<strong> Day 32 </strong>
+- dynamic arrays
+- strenghts: fast lookups, variable szie, cache friendly
+- weaknesses: slow worst case appends, costly inserts and deletes
+- python recap 
+- exercise: mergingRanges, still working on it
