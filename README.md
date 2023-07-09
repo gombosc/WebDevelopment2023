@@ -985,3 +985,5 @@ Day 4:
 - weaknesses: slow worst case appends, costly inserts and deletes
 - python recap 
 - exercise: mergingRanges, still working on it
+- 
+b
