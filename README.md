@@ -988,3 +988,13 @@ Day 4:
 - 
  <strong> Day 33 </strong>
 - portfolio day
+
+<strong> Day 34 </strong>
+- spent the whole day on the greedy merge sort problem
+- python tuples, unpacking, f strings, range fucntion, lambda, upper bounds and lower bound
+- tried to solve the problem on my own, got some logic down and it worked for a simple case of only two elements in the tuple
+- went on to write the problem down and try to understand it, three cases than can hapen
+- solution: sort the tuple at first by start time of meeting then work from left to right through sorted list, create a new merge tuple which compares the first element to the rest and then if condition
+- will do it again 
+- complexity: O(n lgn) time and O(n) space
+- complexity at first: O(n^2)
