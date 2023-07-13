@@ -999,5 +999,26 @@ Day 4:
 - complexity: O(n lgn) time and O(n) space
 - complexity at first: O(n^2)
 
-<strong> Day 35 </strong>
+<strong> Day 35 (July 12th) </strong>
+> destructuring for loops in python
+> enumerate() - for counter, letter in enumerate(list)
+> Reverse a list in place exercise (complexity O(n) time and O(1) space)
+> did both in python an js
+> triangular series (ugh...)
+> realized that using a code visualizer step by step makes a huge difference
+> managed to solve a simpler version of the problem but not the whole
 
+<strong> Day 36 </strong>
+> Merge sorted arrays exercise
+> managed to solve it on my own but it wasn't time or space optimized
+> the other solution got me confused, need to recheck
+> short circuit valuation
+> pythons native sorting is called Trimsort
+> almost finished all exercercises in arrays
+> hashing and hash functions 
+> strenghts and weaknesses, hash collision (some uses: dictionaries, man in the middle attacks)
+> hash tables
+> modulo % recap
+> sets - only stores keys w values
+> linked lists intro again
+> decided on portfolio design finally, need to figure out how to make it
