@@ -1022,3 +1022,8 @@ Day 4:
 > sets - only stores keys w values
 > linked lists intro again
 > decided on portfolio design finally, need to figure out how to make it
+
+<Strong> Day 37 </strong>
+-
+
+<strong> Day 38 </strong>
