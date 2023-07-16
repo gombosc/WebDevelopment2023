@@ -783,7 +783,6 @@ Day 4:
 - using PgAdim and Beekeper as GUI
 - slow day
 
-  
 <strong> Day 14 </strong>
 - finished SQL part
 - connected register to database, it now adds the user in Postgres
@@ -954,76 +953,205 @@ Day 4:
 > added new urls to the fetch functions for the heroku server, solved error
 
 > added user name from the database above the logo in the app cause it looks nice
-                               
+                              
 > connected heroku with app and everything works for now
 
 > good day
 
 <strong> Day 27 </strong>
--
+
+> Finished App, live on heroky, server and postgres
+
+> preparations for job applications
+
+> article on how to break into the thech industry
+
+> Back to Redux to complete course
+
+> higher order functions, iddleware, redux thunk, react tools
+
+> FINISHED WEB DEVELOPER COURSE!
 
 <strong> Day 28 </strong>
+> Interview Cake Introduction
+
+> Big O
+
+> O(1) constant time, O(n) linear time, O(n^2) quadratic time
+
+> Worst case, space complexity (memory costs), asymptotic analysis
+
+> Data Structures: RAM, Binary numbers, Fixed Width Integers, arrays and so on
+
+> string, character encoding
 
 <strong> Day 29 </strong>
+> Starting Data Structures and Algorithms from InterviewCake
+
+> Hash tables, hash collision, tradeoffs
+
+> Summary: arrays, pointers, dynamic arrays, linked lists, hash tables
+
+> logarithms rules recap
+
+> Log in binary search  (Ex 1)
+
+> time cost of binary search O(log n)
+
+> python lists (ordered, changeable, allow duplicates)
+
+> tuples (ordered, unchangeable, allow duplicates)
+
+> sets (unordered, unchang, no dupplicates)
+
+> dicts (ordered since v3.7, changeable, don't allow duplicates)
+
+> binary search (start w middle, bigger or smaller than target, divide in half, repeat with new half size)
+
+> Logarithms in sorting (exercise 2), costs O(nlogn)
+
+> Merge sort
+
+> binary trees, (n+1)/2 is the number of nodes on the last level
 
 <strong< Day 30 </strong>
+> forgot to add
 
 <strong> Day 31 </strong> 
-- Arrays strenghts and weaknesses (fast lookups, fast appends vs fixed size, costly inserts and deletes)
-- worst case for arrays
-- inserting and deleting bigO logic (prepending is O(n)N time)
-- array slicing 
--in-place algorithms (modifies data structures or objects outside of its own stack frame), sometimes called destructive
-- call stack (made up of stack frames), what stack frames usually stores
-- consider the depth of the call stack when analyzing space complexity
-- careful with recursive functions (they build huge call stacks)
-- might be burning out, long months
+> Arrays strenghts and weaknesses (fast lookups, fast appends vs fixed size, costly inserts and deletes)
+
+> worst case for arrays
+
+> inserting and deleting bigO logic (prepending is O(n)N time)
+
+> array slicing 
+
+> in-place algorithms (modifies data structures or objects outside of its own stack frame), sometimes called destructive
+
+> call stack (made up of stack frames), what stack frames usually stores
+
+> consider the depth of the call stack when analyzing space complexity
+
+> careful with recursive functions (they build huge call stacks)
+
+> might be burning out, long months
 
 <strong> Day 32 </strong>
-- dynamic arrays
-- strenghts: fast lookups, variable szie, cache friendly
-- weaknesses: slow worst case appends, costly inserts and deletes
-- python recap 
-- exercise: mergingRanges, still working on it
-- 
+> dynamic arrays
+
+> strenghts: fast lookups, variable szie, cache friendly
+
+> weaknesses: slow worst case appends, costly inserts and deletes
+
+> python recap 
+
+> exercise: mergingRanges, still working on it
+ 
  <strong> Day 33 </strong>
-- portfolio day
+> portfolio day
 
 <strong> Day 34 </strong>
-- spent the whole day on the greedy merge sort problem
-- python tuples, unpacking, f strings, range fucntion, lambda, upper bounds and lower bound
-- tried to solve the problem on my own, got some logic down and it worked for a simple case of only two elements in the tuple
-- went on to write the problem down and try to understand it, three cases than can hapen
-- solution: sort the tuple at first by start time of meeting then work from left to right through sorted list, create a new merge tuple which compares the first element to the rest and then if condition
-- will do it again 
-- complexity: O(n lgn) time and O(n) space
-- complexity at first: O(n^2)
+> spent the whole day on the greedy merge sort problem
+
+> python tuples, unpacking, f strings, range fucntion, lambda, upper bounds and lower bound
+
+> tried to solve the problem on my own, got some logic down and it worked for a simple case of only two elements in the tuple
+
+> went on to write the problem down and try to understand it, three cases than can hapen
+
+> solution: sort the tuple at first by start time of meeting then work from left to right through sorted list, create a new merge tuple which compares the first element to the rest and then if condition
+
+> will do it again 
+
+> complexity: O(n lgn) time and O(n) space
+
+> complexity at first: O(n^2)
 
 <strong> Day 35 (July 12th) </strong>
 > destructuring for loops in python
+
 > enumerate() - for counter, letter in enumerate(list)
+
 > Reverse a list in place exercise (complexity O(n) time and O(1) space)
+
 > did both in python an js
+
 > triangular series (ugh...)
+
 > realized that using a code visualizer step by step makes a huge difference
+
 > managed to solve a simpler version of the problem but not the whole
 
 <strong> Day 36 </strong>
 > Merge sorted arrays exercise
+
 > managed to solve it on my own but it wasn't time or space optimized
+
 > the other solution got me confused, need to recheck
+
 > short circuit valuation
+
 > pythons native sorting is called Trimsort
+
 > almost finished all exercercises in arrays
+
 > hashing and hash functions 
+
 > strenghts and weaknesses, hash collision (some uses: dictionaries, man in the middle attacks)
+
 > hash tables
+
 > modulo % recap
+
 > sets - only stores keys w values
+
 > linked lists intro again
+
 > decided on portfolio design finally, need to figure out how to make it
 
 <Strong> Day 37 </strong>
--
+> First come first served exercise solved (5 main steps)
+
+> solved it iterative as well as recursive
+
+> Complexity O(n) timne and O(1) space
+
+> Base case - tells a recursive function when to stop (recursive functions recap)
+
+> Edge Cases: ask questions
+
+> Know when to optimize code and when it's not worth it
+
+> Array slicing
+
+> Careful of the hidden spare costs from a recursive function call stack
+
+> Recursive functions vs iteratives algorithms
+
+> Queues: store items in a FIFO order
+
+> Strenghts and weaknesses (fast operations, all queue operations take O(1) time)
+
+> Uses for queues: breadth first search, printers, web servers, processes
+
+> Stack - stores items in a LIFO order (pile of dirty plates in your sink)
+
+> Strenghts of stack - fast operations, take O(1) time
+
+> Uses - the call stack, depth first search, string parsing
+
+> greedy algorithms
 
 <strong> Day 38 </strong>
+> Rest day
+
+<strong> Day 39 (16th July) </strong> 
+> Binary Tree
+
+> Perfect Tree, Properties of perfect trees
+
+> The number of total nodes on each level dobles as we move down the tree
+
+> Number of nodes on the last leves is equal to sum of nodes on all other leves
+
+> n = 2^h - 1
