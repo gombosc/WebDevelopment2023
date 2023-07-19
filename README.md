@@ -1155,3 +1155,20 @@ Day 4:
 > Number of nodes on the last leves is equal to sum of nodes on all other leves
 
 > n = 2^h - 1
+
+<strong> Day 40 </strong>
+> started Inflight Entertainment exercise
+
+> sets
+
+> revision of materials
+
+<strong> Day 41 </strong>
+> forced day off, was too busy
+
+<strong> Day 42 </strong>
+> more about sets and exercises in pyhton
+
+> finished InflightEntertainment both in JS and Python
+
+> Hash based structures like sets or dictionaries are very common in coding problems
