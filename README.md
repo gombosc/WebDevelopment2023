@@ -1172,3 +1172,6 @@ Day 4:
 > finished InflightEntertainment both in JS and Python
 
 > Hash based structures like sets or dictionaries are very common in coding problems
+
+<strong> Day 42 </strong>
+>
