@@ -1173,7 +1173,12 @@ Day 4:
 
 > Hash based structures like sets or dictionaries are very common in coding problems
 
-<strong> Day 42 </strong>
+<strong> Day 42 (20th of July) </strong>
 >
 
 <strong> Day 43 </strong>
+>
+
+<strong> Day 44 (26th of July) </strong>
+> took a forced break for the last couple of days
+
