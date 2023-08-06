@@ -1182,5 +1182,4 @@ Day 4:
 <strong> Day 44 (26th of July) </strong>
 > took a forced break for the last couple of days
 
-**Day 45**
-> 
+**Took a big break, restarting the 100 days of coding and creating a different file for it**
